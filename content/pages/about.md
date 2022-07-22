@@ -5,9 +5,9 @@ draft: false
 categories: ["pagine"]
 ---
 
-In un contesto in cui i progressi tecnologici vanno veloci ma regna la confusione dal punto di vista dell'informazione, questo sito cerca di chiarire tutti gli aspetti relativi a salute, invecchiamento, ringiovanimento, eterna giovinezza, estensione della vita, inquadrandoli nel contesto biologico, evoluzionistico, psicologico ed etico.
+In un contesto in cui i progressi tecnologici vanno veloci ma regna la confusione dal punto di vista dell'informazione, questo sito cerca di chiarire tutti gli aspetti relativi a salute, invecchiamento, ringiovanimento, eterna giovinezza, estensione della vita, "immortalità", senso della vita, inquadrandoli nel contesto biologico, evoluzionistico, psicologico ed etico, cercando di fare una riflessione sistemica.
 
-Solo laureato in scienze biologiche, ma mi interesso molto anche di etica.
+Ho una laurea magistrale in scienze biologiche, con particolare orientamento su neuroscienze ed evoluzione, lavoro in ambito computazionale, ma mi interesso molto anche di etica e filosofia.
 
 Alcuni link interessanti:
 
@@ -18,5 +18,6 @@ Alcuni link interessanti:
 - 2019 - [David Sinclair | Why We Age and Why We Don't Have To | Talks at Google](https://youtu.be/9nXop2lLDa4)
 - 2020 - [Rewinding the biological clock: How to reverse ageing | Nature video](https://youtu.be/ArICnh2Q9EI)
 - 2020 - [The RJ Files](https://tmnthngs.wordpress.com/2020/06/13/the-rj-files/)
+- 2021 - [Aging in unity. _Nature Aging_ 1, 1 (2021)](https://doi.org/10.1038/s43587-020-00022-2)
 - 2022 - [Is Aging Reversible? A Scientific Look with David Sinclair | David Sinclair | TEDxBoston](https://youtu.be/cLZEEOZlTzo)
 - 2022 - [Getting older without getting old - with Andrew Steele | The Royal Institution](https://youtu.be/fX9P1xuIJGg)
