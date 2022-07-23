@@ -8,34 +8,51 @@ categories: ["pagine"]
 
 ### Cos'è l'invecchiamento?
 
-L'invecchiamento NON è il passare del tempo.
+L'invecchiamento NON è il tempo che passa.
 
-Biologicamente, l'invecchiamento è la perdita di integrità fisiologica, cioè la perdita progressiva di tutte le funzioni vitali dell'organismo, che favorisce l'insorgenza di disfunzioni, malattie e morte. L'invecchiamento può essere anche descritto come un accumulo di danni (molecolari, cellulari, tissutali, ecc.). [1]
+Biologicamente, l'invecchiamento è la perdita di integrità fisiologica, cioè la perdita progressiva di tutte le funzioni vitali dell'organismo, che determina l'insorgenza di disfunzioni fisiche e mentali, aumento di rischio di malattie, e morte. L'invecchiamento può essere anche descritto come un accumulo di danni (molecolari, cellulari, tissutali, ecc.). [1]
 
-La retorica (usata molto anche in psicologia, su questo tema), per indorare la pillola, parla spesso di invecchiamento come di un generico "cambiamento". La realtà invece è che si tratta di una _perdita_ netta di salute e di qualità di vita, in sostanza di una perdita progressiva di sé fino alla morte.
+La retorica (usata spesso anche in psicologia, su questo tema), per indorare la pillola, parla spesso di invecchiamento come di un generico "cambiamento" se non addirittura "arricchimento". La realtà fisica e biologica invece è che si tratta di una *perdita netta di salute e di qualità di vita*, in sostanza di una perdita progressiva di sé fino alla morte. Non si guadagna nulla, ma si perde, e la prova incontrovertibile è che è un processo che causa la morte.
+L'aumento conoscenza e consapevolezza _non_ fa parte del processo di invecchiamento, ma del processo di apprendimento. Che, ripetiamo, non c'entra nulla con l'invecchiamento (vedi sopra), anzi l'invecchiamento deteriora anche il processo di apprendimento, proprio perché si ha sempre un declino cognitivo (il fatto che avvenga a diversa velocità tra diverse persone non significa che non avvenga, è solo una conferma della diversità individuale).
 
-Un fatto di cui si parla ancora pochissimo è che la perdita di funzione a vari livelli implica anche una riduzione della funzione cerebrale e quindi anche della capacità di emozionarsi pienamente. In alcuni tipi di traiettorie di invecchiamento si arriva a varie forme di demenza, la più comune delle quali è la malattia di Alzheimer. Altre forme di degenerazione cerebrale si manifestano come Parkinson.
+Un fatto di cui si parla ancora pochissimo (a causa di una generale ignoranza sulle emozioni e della loro neurobiologia) è che la perdita di funzione a vari livelli implica anche una riduzione della funzione cerebrale e quindi anche della capacità di emozionarsi pienamente. In diversi tipi di traiettorie di invecchiamento il declino cognitivo arriva a manifestarsi varie forme di demenza, la più comune delle quali è la malattia di Alzheimer. La curva dell'aumento della demenza con l'età è forse quella più spaventosa. Altre forme di neurodegenerazione si manifestano come Parkinson.
 
-La consapevolezza che l'invecchiamento è la principale causa di malattie croniche appartiene al dominio della geroscienza, la quale sta guidando un cambio di paradigma nel modo in cui affrontiamo le malattie. [2]
+La consapevolezza che l'invecchiamento è la principale causa di malattie croniche appartiene al dominio della **[geroscienza](/rjevolution/posts/cosa-e-la-geroscienza.md)**, la quale sta guidando un cambio di paradigma nel modo in cui affrontiamo le malattie. [2]
+
+> In sostanza quando uno sostiene la lotta all'invecchiamento, l'estensione della vita, il ringiovanimento, l'"eterna" giovinezza, sta semplicemente difendendo la salute e la qualità di vita nel modo più razionale e scientificamente fondato.
 
 ### Perché l'invecchiamento è un problema?
+
+Perchè la salute è la cosa più importante, e l'invecchiamento la distrugge.
 
 > “La salute non è tutto ma senza salute tutto è niente.” – Arthur Schopenhauer
 
 La salute è il bene che rende possibile ogni altro bene.
+Di solito la gente, quando dice "l'importante è la salute", pensa solo a evitare gravi malattie, tipo cancro, Alzheimer. Per molti è sufficiente poter camminare e conservare un po' di lucidità per credere di avere la salute, ma in realtà una buona salute è molto di più. È avere una buona resistenza a traumi e perturbazioni ambientali, vedere e sentire bene, poter fare attività fisica, sessuale e soprattutto poter fare ciò che si ama e poter esprimere amore pienamente.
 
-L'invecchiamento distrugge la salute, e quindi si posiziona in cima alla classifica dei problemi dell'uomo, come tutti i problemi che causano una perdita di salute (inquinamento, mancanza di cibo, violenza, terrorismo, ecc.). Numericamente l'invecchiamento causa direttamente e indirettamente circa 2/3 delle morti giornaliere.
+L'invecchiamento distrugge progressivamente la salute (in moltissimi modi diversi contemporaneamente), ed è di gran lunga la principale causa di malattie croniche e mortali, e quindi si posiziona in cima alla classifica dei problemi dell'uomo, come tutti i problemi che causano una perdita di salute (inquinamento, mancanza di cibo, violenza, terrorismo, ecc.). Numericamente l'invecchiamento causa direttamente e indirettamente circa 2/3 delle morti giornaliere.
+
+Non solo. Prima di compromettere seriamente la salute, l'invecchiamento fa anche un'altra cosa molto grave: **toglie la giovinezza**.
+
+Se ne parla molto poco per via degli innumerevoli bias e della retorica in cui siamo immersi, ma anche questo è un enorme problema per quanto riguarda il benessere degli individui. Un indizio di questo problema è la cosidetta curva a U della felicità.
+
+La perdita della giovinezza è associabile alla perdita della prospettiva di realizzare i propri sogni, al concetto di "fallimento", alla perdita della possibilità di sperimentare in modo spensierato.
 
 Altri problemi correlati all'invecchiamento:
-- Ostacoli alla ricerca della verità su misteri irrisolti, es. Ustica: "Questo mistero rimarrà purtroppo tale, non perché sia impossibile trovare la verità, ma piuttosto perché chi sa tace o è morto." (uno dei tanti commenti su un video su Ustica: https://www.youtube.com/watch?v=mT6afAJNC8w)
 
-### Perché molta gente non vede il problema?
+- La perdita di informazione associata alla perdita delle vecchie generazioni: se davvero il mondo fosse in peggioramento, come molti credono (il che è tutto da dimostrare, come minimo), l'unico motivo per questa presunta perdita di valori e vecchie buone abitudini sarebbe la perdita di informazione, e l'informazione viene persa principalmente perché le vecchie generazioni muoiono, per cui quelle nuove nascerebbero senza valori. Da capire quali sarebbero questi mitici valori... sembra proprio che la salute non ci sia, e nemmeno il rispetto per le emozioni e la diversità.
+- Sempre associato alla perdita di informazione. Ostacoli alla ricerca della verità su misteri irrisolti, es. Ustica: "Questo mistero rimarrà purtroppo tale, non perché sia impossibile trovare la verità, ma piuttosto perché chi sa tace o è morto." (uno dei tanti commenti su un video su Ustica: https://www.youtube.com/watch?v=mT6afAJNC8w)
+
+### Perché molta gente non vede chiaramente il problema dell'invecchiamento?
 
 Probabilmente per un insieme di motivi tra cui:
 
+Il credere che sia inevitabile (credenza assai comprensibile) aiuta.
+
 - negazione psicologica del problema
-    - scarsa educazione emotiva (non si è in contatto con i propri desideri e sentimenti, che vengono ignorati, soppressi, giudicati)
-    - la psicologia stessa ha ignorato/negato il problema della morte, rifugiandosi nella retorica
+    - teoria della gestione del terrore (una cosa percepita come terribile, inevitabile e lontana può finire presto nel dimenticatoio)
+    - scarsa educazione emotiva (non si è in contatto con i propri desideri e sentimenti, che vengono ignorati, soppressi, giudicati, come quello di rimanere sempre giovani e in salute)
+    - la psicologia stessa ha ignorato, negato il problema della morte, rifugiandosi molto spesso nella retorica
     - sindrome di Stoccolma
     - appelli alla retorica
 - scarsa cultura logica, scientifica e filosofica
@@ -44,38 +61,58 @@ Probabilmente per un insieme di motivi tra cui:
             - appello alla natura ("è naturale, quindi tutto ok")
             - confondere fatti con valori, descrizioni con prescrizioni ("è cosi quindi deve essere così", v. legge di Hume)
             - appello alla normalità ("è normale, quindi tutto ok")
-            - si crede che la natura sia un'entità intelligente ed etica
-        - appelli alla tradizione e al passato ("è sempre stato così")
+            - credere che la natura sia un'entità intelligente ed etica ()
+        - appello alla tradizione ("è sempre stato così, quindi va bene")
+        - appello al passato ("ha vissuto un tot, quindi va bene")
+    - ipotizzare non ben precisati problemi etici futuri
+        - senza problematizzare e analizzare criticamente la situazione attuale
+        - ignorando cosa è l'etica e su cosa si fonda
     - mancanza di cultura biologica su:
         - evoluzione
-            - credere che l'evoluzione voglia
+            - credere che l'evoluzione abbia degli scopi e che abbia pianificato che l'invecchiamento sia un mezzo per raggiungere tali scopi, o mantenerli
+            - biodiversità individuale
         - invecchiamento biologico
             - credere che l'invecchiamento sia il passare del tempo
             - credere che l'invecchiamento sia inevitabile
-            - credere che esista l'invecchiamento in salute
+            - credere che esista l'"invecchiamento sano"
         - neurobiologia delle emozioni
+    - mancanza di integrazione tra etica, neurobiologia delle emozioni ed evoluzione
 
-Questa sorta di torpore, letargia, indifferenza, trance (de Grey parla di pro-aging-trance) è riportata anche in alcuni paper scientifici.
+Questa sorta di torpore, letargia, indifferenza, trance ("pro-aging trance") è riportata anche in alcuni paper scientifici.
 
 ### Cos'è l'estensione della vita?
 
-Con il termine "estensione della vita" si intende il mantenimento della vita _in salute_ per più tempo rispetto alla situazione attuale, il cui massimo (teorico) è calcolato in 150 anni. [3]
+Con il termine "estensione della vita" si intende il concetto del mantenimento della vita *in salute* (non nella decrepitezza) per molto più tempo rispetto alla situazione attuale (il limite teorico dell'aspettativa di vita, "lifespan" è calcolato in 150 anni[3], anche se al massimo si sono raggiunti i 120 anni circa, ma l'aspettativa di vita in salute, healthspan in inglese, è molto più bassa).
+Per "estensione indefinita della vita" si intende il mantenimento della vita in salute a tempo indeterminato, che è intrinsecamente lo scopo etico dell'uomo e della medicina, dato che rispetta i valori di salute e libertà.
 
-Per "estensione radicale o indefinita della vita" si intende il mantenimento della vita a tempo indeterminato.
+**Attenzione** ai frequentissimi equivoci e alla seduzione retorica del tipo "aggiungi vita agli anni e non anni alla vita": lo _scopo_ di tutto ciò non è la mera durata, ma la **qualità della vita nel presente**.
+La qualità della vita richiede salute e quindi integrità fisiologica. Ma quando si riesce a ottenere il mantenimento dell'integrità fisiologica, automaticamente anche la vita si allunga. Questo perché una persona con un'età biologica corrispondente a quella di un venticinquenne medio ha alta probabilità di sopravvivere, perché ha alta resilienza (la struttura determina la funzione, quindi anche la resilienza).
 
-L'estensione indefinita della vita richiede che l'invecchiamento si fermi, perché oltre un certo limite si verifica un cedimento strutturale critico e quindi la morte. Sono strutturalmente impossibili gli scenari alla mito di Titone in cui si è immortali continuando a invecchiare ([Can You Age Forever? | LifeXtenShow](https://youtu.be/hZvCaRPp2ds)).
+Probabilmente si dovrebbe usare il termine "estensione della salute" (o estensione della qualità di vita), ma date le premesse sopra, alla fine i concetti sono equivalenti.
 
-(video) [What Is Life Extension? | LifeXtenShow](https://youtu.be/OzCzCWAxs2g)
-(video) [Perché Invecchiare? L'Estensione della Vita | Ulisse](https://youtu.be/waTXhLwsxYA) - Versione ridoppiata in italiano del video di Kurzgesagt - In a Nutshell
+L'estensione indefinita della vita quindi richiede necessariamente che l'invecchiamento (accumulo di danni) si fermi, perché oltre un certo limite si verifica un cedimento strutturale critico e quindi la morte. Pertanto, sono fisicamente impossibili gli scenari alla "mito di Titone" in cui si è "immortali" continuando a invecchiare ([Can You Age Forever? | LifeXtenShow](https://youtu.be/hZvCaRPp2ds)).
+
+Per approfondire:
+* (video) [What Is Life Extension? | LifeXtenShow](https://youtu.be/OzCzCWAxs2g) - video in inglese con sottotitoli anche in italiano
+* (video) [Perché Invecchiare? L'Estensione della Vita | Ulisse](https://youtu.be/waTXhLwsxYA) - Versione ridoppiata in italiano del video di Kurzgesagt - In a Nutshell
 
 ### Qual è lo scopo dell'estensione della vita?
 
-Lo scopo reale dell'estensione della vita è mantenere una salute e qualità della vita ottimali nel presente. Per motivi biologici fondamentali, la salute ottimale è quella che corrisponde alla struttura giovanile dei 20-30 anni.
+Lo scopo dell'estensione della vita è mantenere una salute e qualità della vita ottimali nel presente. Per motivi biologici fondamentali, la salute ottimale è quella che corrisponde alla struttura e funzione giovanile dei 20-30 anni. In uno studio si parla dei 27 anni come massimo da più punti di vista.
 
-### Benefici dell'estensione della vita
+### Benefici dell'estensione della vita in salute
 
-- Mantenimento della salute e della qualità della vita, che sono universalmente riconosciute come le cose più importanti.
-- Risoluzione di misteri
+- Possibilità di mantenere salute e qualità della vita, che sono universalmente riconosciute come le cose fondamentali
+- Maggiore possibilità di realizzare e mantenere sogni
+- Possibilità di trovare sé stessi e l'eventuale anima gemella con tutta la dovuta calma
+- Avere tempo per mantenere questo stato
+- Avere tempo e possibilità per recuperare in seguito a gravi perdite
+- Rispettare la diversità e le persone più sensibili
+- Accumulo di consapevolezze, cultura ed esperienze e loro condivisione
+- No perdita di saggezza degli anziani
+- Avere giustizia (molte persone ottengono giustizia quando è troppo tardi o mai per la lentezza dei processi e il fatto che è tutto impostato per una vita breve)
+- Arrivare alla verità di misteri irrisolti (Ustica, e molti altri)
+- Poter vedere gli sviluppi futuri
 
 (video) [What Are The Benefits of Life Extension? | LifeXtenShow](https://youtu.be/zsQlgZX7hvQ)
 (video) [Life Extension | Isaac Arthur](https://www.youtube.com/watch?v=kKmdc2AuXec)
@@ -91,25 +128,26 @@ L'impossibilità di fermare il tempo non implica l'impossibilità di fermare l'i
 * **tempo**: una misura della durata degli eventi → _anni_
 * **invecchiamento biologico**: l'eventuale processo di deterioramento negli organismi viventi nel corso del tempo → _danni_
 
-### L'invecchiamento non è una legge di natura
+### Mito: l'invecchiamento è una legge di natura
 
-Diamo la parola Richard Feynman che di leggi di natura se ne intende, essendo un fisico e un filosofo:
+Sicuri? Diamo la parola Richard Feynman che di leggi di natura se ne intende, essendo un fisico e un filosofo:
 
 > “Infine, vi è il problema della morte. Una delle cose più notevoli è che nulla in biologia indica che la morte sia necessaria. Se volessimo realizzare il moto perpetuo, le leggi della fisica sarebbero già sufficienti per farci escludere una tale possibilità - oppure le leggi sono sbagliate. Ma nulla di quanto si è finora trovato in biologia indica l'inevitabilità della morte, e questo mi fa sospettare che la morte non sia affatto ineluttabile: sarà una questione di tempo, ma prima o poi i biologi scopriranno le cause di questa seccatura, e questa tremenda malattia, questa provvisorietà del corpo umano, verrà curata.” - Il piacere di scoprire. Richard P. Feynman
 
 Infatti, contrariamente a ciò che molte persone credono, non esistono in biologia leggi che affermino che un organismo vivente debba invecchiare. "Ah, è anche biologo? Non lo sapevo". Ora lo sai.
 
-Quello che molti chiamano in causa è il secondo principio della termodinamica. Peccato che tale principio sia definito solo per i sistemi isolati, mentre gli organismi viventi sono tutto tranne che sistemi isolati, e scambiano materia ed energia con l'ambiente esterno. I sistemi aperti possono diminuire la loro entropia. Infatti gli oggetti possono essere riparati, le stanze possono essere riordinate, la vita può evolvere, ed esistono in natura organismi con senescenza trascurabile o negativa (vedi [paper](/rjevolution/papers/senescence-is-not-inevitable)). David Sinclair sull'entropia degli organismi viventi: https://youtu.be/9nXop2lLDa4?t=1306.
+Quello che molti chiamano in causa è il secondo principio della termodinamica. Peccato che tale principio valga solo per i sistemi isolati, mentre gli organismi viventi sono tutto tranne che sistemi isolati, e scambiano materia ed energia con l'ambiente esterno. I sistemi aperti possono diminuire la loro entropia, gli oggetti possono essere riparati, le stanze possono essere riordinate, la vita può evolvere, ed esistono in natura organismi con senescenza trascurabile o negativa (vedi [paper](/rjevolution/papers/senescence-is-not-inevitable)). David Sinclair sull'entropia degli organismi viventi: https://youtu.be/9nXop2lLDa4?t=1306.
 
-#### Se anche lo fosse, non sarebbe un problema
+#### Se anche l'invecchiamento fosse una legge di natura, non necessariamente sarebbe un problema insormontabile
 
-Colpo di scena incredibile! Anche se per assurdo l'invecchiamento fosse una legge di natura (cosa che risulta smentita da innumerevoli evidenze e teorie), comunque non vorrebbe dire che non possiamo farci nulla. Infatti anche la gravità è una legge naturale che spinge tutti gli oggetti sulla Terra verso il basso, ma si sono evolute innumerevoli soluzioni per aggirarla, contrastarla e andare nella direzione opposta:
+Colpo di scena incredibile, che non si trova in giro! Anche se per assurdo l'invecchiamento fosse una legge di natura (cosa che risulta smentita dalla teoria e dall'evidenza), comunque non vorrebbe dire che non possiamo farci nulla.
+Infatti anche la gravità è una legge naturale che, sulla Terra, spinge tutti gli oggetti verso il basso, ma cionostante si sono evolute innumerevoli soluzioni per aggirarla, contrastarla e andare nella direzione opposta:
 
 * pollini
 * insetti volanti
 * uccelli
 * ascensori
-* aeroplani, elicotteri, droni
+* aeroplani, elicotteri, droni, ...
 
 ### Tutte le cose hanno un inizio e una fine?
 
@@ -117,16 +155,23 @@ Errore 404: NOT FOUND. Non esistono leggi fisiche di questo tipo.
 
 Questa è una classica credenza popolare vaga e dogmatica su cui tante persone hanno una fede incrollabile. Tuttavia è una credenza non solo infondata, ma anche autocontraddittoria.
 
-Proviamo ad applicarla nei vari modi possibili a seconda di cosa si intende per "cosa":
+Proviamo ad intepretarla nei vari modi possibili a seconda di cosa si intende per "cosa":
 
-1. Versione ristretta, in cui le cose sono i sistemi fisici: l'universo è una cosa, un sistema fisico, e quindi esso stesso dovrebbe avere avuto un inizio, ma questo implicherebbe un tempo in cui l'universo non esisteva, cioè in cui non vi era assolutamente nulla. Ma dal nulla assoluto non può generarsi alcunché perché non vi sarebbe alcuna causa che produca alcun effetto. Quindi è impossibile che l'universo abbia avuto un inizio (NB: le fluttuazioni quantistiche non sono un nulla, ma sono già qualcosa di esistente e ben diverso dal nulla, cioè un universo in un particolare stato) e quindi non è vero che tutto ha un inizio e una fine. Questa legge quindi presenta dei problemi anche nella sua definizione ristretta.
-1. Versione estesa in cui anche l'energia è una cosa: se l'energia avesse una fine (o un inizio) allora non si conserverebbe, quindi si violerebbe il principio di conservazione dell'energia, che è uno dei più confermati della fisica.
-1. Versione estesa in cui ogni tipo di fenomeno o processo è una cosa: la particolare cosa che corrisponde all'invecchiamento umano o degli animali dovrebbe avere una fine, e quindi ci dovrebbe essere un tempo in cui gli uomini non invecchiano più (ci doveva essere un tempo in cui gli uomini non invecchiavano, e questo è chiaramente falso).
-1. Versione estesa in cui anche le leggi sono cose: implica che anche questa legge dell'inizio e della fine dovrebbe avere un inizio e una fine, quindi prima o poi dovrebbe smettere di essere vera. Questo implica necessariamente che questa versione non può essere vera, e quindi devono esistere leggi immutabili.
+1. Versione ristretta, in cui le cose sono i sistemi fisici:
+   * Tutti i sistemi fisici: se questa legge vale per tutte le cose, cioè tutti i sistemi fisici, essendo l'universo un sistema fisico, esso stesso dovrebbe avere avuto un inizio. Questo implicherebbe un tempo in cui l'universo non esisteva, cioè in cui non vi era assolutamente nulla. Ma dal nulla assoluto non può generarsi alcunché perché non vi sarebbe alcuna causa che produca alcun effetto in alcunché. Quindi è impossibile che l'universo abbia avuto un inizio (NB: le fluttuazioni quantistiche non sono il nulla assoluto, ma sono già qualcosa di esistente e ben diverso dal nulla, cioè un universo in un particolare stato), e quindi non è vero che tutto ha un inizio e una fine. Questa legge quindi presenta dei problemi anche nella sua definizione ristretta.
+   * tutti i sistemi fisici tranne l'universo
 
-Pertanto: questa legge certamente non può essere vera per tutto ciò che può essere definito, perché annullerebbe sé stessa. Questo implica che esiste necessariamente un qualcosa di eterno e immutabile. Alcuni esempi potrebbero esssere le leggi naturali, ovvero i principi di conservazione, la velocità della luce, ecc.
+1. Versione estesa in cui anche l'energia è una "cosa" che deve iniziare e finire: se l'energia avesse una fine (o un inizio) allora non si conserverebbe, quindi si violerebbe il principio di conservazione dell'energia, che è uno dei più confermati della fisica.
+1. Versione estesa in cui ogni tipo di fenomeno o processo è una "cosa": la particolare cosa che corrisponde all'invecchiamento umano e degli animali dovrebbe avere una fine, e quindi ci dovrebbe essere un tempo in cui gli uomini non invecchiano più.
+1. Versione ancora più estesa in cui anche le leggi sono cose: implica che anche questa legge dell'inizio e della fine delle cose dovrebbe avere un inizio e una fine, quindi prima o poi finirebbe. Questo implica necessariamente che questa versione non può essere vera, e che quindi devono esistere leggi immutabili.
 
-Ma questo implica che l'universo esiste sempre, perché se qualcosa esiste eternamente, deve esistere all'interno di un universo. Di nuovo si ritorna al fatto che è impossibile che tutto abbia inizio e fine.
+In conclusione, questa legge certamente non è vera:
+* per l'universo come sistema fisico
+* per tutte le leggi dell'universo (includerebbe se stessa, autonegandosi).
+
+Implicazioni:
+* esiste necessariamente un qualcosa di eterno e immutabile. Alcuni esempi potrebbero esssere le leggi naturali, ovvero i principi di conservazione, la velocità della luce, ecc.
+* l'universo esiste sempre, perché se qualcosa esiste eternamente, deve esistere all'interno di un universo. Di nuovo si ritorna al fatto che è impossibile che tutto abbia inizio e fine.
 
 ### L'invecchiamento è naturale!
 
@@ -165,7 +210,7 @@ Link esterni sulle fallacie naturalistiche:
 
 1. Molto improbabile: il tasso di riproduzione tende spontaneamente ad autoregolarsi (al momento sta diminuendo) e la tecnologia ad aumentare.
 2. Argomento eticamente problematico: il diritto alla vita batte il diritto alla riproduzione.
-3. Non è un problema di tipo diverso o superiore da quello che già c'è con l'invecchiamento, che consiste nel causare sofferenza e morte.
+3. Non è un problema di tipo diverso o superiore da quello che già c'è con l'invecchiamento, che consiste in sofferenza e morte.
 
 Vedi i dettagli nell'articolo dedicato: [salute e sovrappopolazione](/rjevolution/posts/salute-e-sovrappopolazione)
 
@@ -201,6 +246,12 @@ In ogni caso se uno proprio non volesse più vivere, non sarebbe un problema. L'
 
 > Perché dovrebbe? Tanto, smetto quando voglio… [link](https://qr.ae/pvPctP)
 
+### La gente si suicida già ora
+
+I motivi del suicidio sono spesso legati a malattia e morte, in generale a perdite, non certo alla salute e alla possibilità di rifarsi una vita piena.
+
+In generale sono tutti collegati a violenza e danno, cioè a cose brutte. Quindi il problema sono le cose brutte, 
+
 ### I lati buoni dell'invecchiamento
 
 (video) [The Good Sides of Aging? | LifeXtenShow](https://youtu.be/KcpYGFbD-rQ)
@@ -224,3 +275,4 @@ Tra l'altro potrebbe spiegare una enorme fetta dei casi di depressione, dato che
 [2] Aging in unity. _Nature Aging_ 1, 1 (2021). https://doi.org/10.1038/s43587-020-00022-2
 
 [3] Pyrkov, T.V., Avchaciov, K., Tarkhov, A.E. et al. Longitudinal analysis of blood markers reveals progressive loss of resilience and predicts human lifespan limit. _Nat Commun_ 12, 2765 (2021). https://doi.org/10.1038/s41467-021-23014-1
+
