@@ -1,12 +1,12 @@
 ---
-title: "Healthy Aging: The Ultimate Preventative Medicine | Science"
+title: "Invecchiamento sano: la medicina preventiva per eccellenza | Science"
 date: 2015-12-04T21:41:29+02:00
 draft: false
 tags: ["geroscienza"]
 categories: ["papers", "articoli tradotti"]
 ---
 
-# Invecchiamento sano: la medicina preventiva per eccellenza
+**Healthy Aging: The Ultimate Preventative Medicine | Science**
 
 Matt Kaeberlein, Peter S. Rabinovitch, e George M. Martin
 
@@ -50,7 +50,6 @@ La seconda grande sfida per la valutazione clinica degli interventi che modifica
 Come tappa intermedia rispetto agli studi clinici sull'uomo, potremmo applicare la geroscienza traslazionale ai cani da compagnia (12). I cani soffrono di molte delle stesse malattie e declini funzionali associati all'età che colpiscono gli esseri umani, anche se a un ritmo più accelerato, e i medici veterinari sono esperti nel riconoscere e diagnosticare le malattie geriatriche nei cani. I cani presentano anche una notevole diversità genetica e fenotipica. Inoltre, i cani e i gatti da compagnia condividono l'ambiente umano in misura ineguagliata rispetto a qualsiasi altro animale non umano. Un aumento significativo della longevità in salute nei cani da compagnia non solo fornirebbe importanti spunti per sforzi simili nelle persone, ma migliorerebbe direttamente la qualità della vita dei cani da compagnia e dei loro proprietari. È in corso uno studio pilota che valuta gli effetti del trattamento a breve termine con rapamicina sull'invecchiamento cardiaco nei cani da compagnia di mezza età (13) ed è stato proposto uno studio di intervento a più lungo termine che valuterebbe anche gli effetti del trattamento con rapamicina sull'incidenza del cancro, sul declino cognitivo, sulla funzione immunitaria, sulla mobilità e sull'aspettativa di vita nei cani di mezza età (12).
 
 Abbiamo brevemente delineato la necessità di un impegno concertato per determinare i meccanismi attraverso i quali i processi intrinseci dell'invecchiamento portano a molti dei disturbi più devastanti per la salute umana, tra cui le malattie cardiache, il diabete, il cancro e la demenza. Abbiamo anche indicato i promettenti progressi della ricerca traslazionale che potrebbero ritardare o prevenire la maggior parte di questi disturbi. C'è tuttavia un'avvertenza che richiede ulteriori indagini: in che misura gli interventi che rallentano il ritmo dell'invecchiamento e ritardano l'insorgenza dei disturbi legati all'età saranno accompagnati da una compressione della morbilità. In altre parole, tali interventi porteranno regolarmente a un aumento del rapporto tra durata della salute e durata della vita? I nostri centenari medicati condurranno una vita soddisfacente con un eventuale crollo improvviso, o soffriranno di malattie croniche di durata proporzionalmente più lunga? Sebbene alcune ricerche sui centenari suggeriscano effettivamente una compressione della morbilità (14) e la rapamicina, in particolare, sembri migliorare in modo sproporzionato molte misure di durata della salute nei topi (15), i futuri progressi negli interventi di geroscienza dovranno essere attentamente monitorati.
-
 
 ## Ringraziamenti
 

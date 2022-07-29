@@ -1,12 +1,12 @@
 ---
-title: "Aging Fits the Disease Criteria of the International Classification of Diseases | Mechanisms of Ageing and Development"
+title: "L'invecchiamento Corrisponde ai Criteri di Malattia della Classificazione Internazionale delle Malattie | Mechanisms of Ageing and Development"
 date: 2020-03-09T00:42:34+02:00
 draft: false
 tags: ["definizioni"]
 categories: ["articoli tradotti", "papers"]
 ---
 
-# L'invecchiamento Corrisponde ai Criteri di Malattia della Classificazione Internazionale delle Malattie
+**Aging Fits the Disease Criteria of the International Classification of Diseases**
 
 > Pertanto, concludiamo che l'invecchiamento biologico rientra nei criteri di malattia dell'International Classification of Diseases-11 e può essere legittimamente considerato una malattia.
 
@@ -20,7 +20,7 @@ Daria Khaltourina, Yuri Matveyev, Aleksey Alekseev, Franco Cortese, Anca Ioviţ�
 - Abbiamo identificato una serie di interventi, tra cui modifiche dello stile di vita, farmaci approvati e integratori, che si sono dimostrati efficaci per la prevenzione di più di un processo patologico legato all'invecchiamento.
 - Una proposta basata su questi risultati è stata presentata alla Task Force congiunta dell'ICD-11, che ha portato all'inclusione del codice di estensione per "invecchiamento correlato" (XT9T) nella sezione "Causalità" dell'ICD-11.
 - Vengono esaminati i fattori genetici e ambientali dell'invecchiamento.
-- Pertanto, concludiamo che l'invecchiamento biologico rientra nei criteri di malattia dell'International Classification of Diseases-11 e può essere legittimamente considerato una malattia.
+- Pertanto, **concludiamo che l'invecchiamento biologico rientra nei criteri di malattia dell'International Classification of Diseases-11 e può essere legittimamente considerato una malattia**.
 
 ## Abstract
 

@@ -8,13 +8,13 @@ tags: ["malattie correlate all'età"]
 
 ![Faccia di un anziano](/rjevolution/images/elderly-face.png)
 
-Titolo originale: "Fighting the inevitability of ageing"
+**Fighting the inevitability of ageing**
 
 La debilitante perdita di muscoli e forza che si verifica con l'età viene riconosciuta come una malattia che può essere curata.
 
 Liam Drew
 
-## AI-Highlights:
+## Highlights (generati automaticamente)
 
 * La sarcopenia è una perdita di massa muscolare scheletrica e di funzionalità legata all'età che può impedire a una persona di uscire di casa, salire le scale o persino alzarsi dalla sedia.
 * La condizione è stata formalmente riconosciuta solo nel 2016, quando la classificazione internazionale delle malattie dell'Organizzazione Mondiale della Sanità l'ha inclusa.

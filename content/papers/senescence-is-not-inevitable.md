@@ -6,13 +6,13 @@ tags: ["evoluzione", "natura", "senescenza trascurabile"]
 categories: ["articoli tradotti", "papers"]
 ---
 
-# Senescence is not inevitable
+**Senescence is not inevitable**
 
 Owen R. Jones and James W. Vaupel
 
 ## Abstract
 
-La senescenza, il deterioramento fisiologico che comporta un aumento della mortalità e un declino della fertilità con l'età, è molto diffusa nel regno animale ed è stata spesso considerata una caratteristica ineluttabile di tutti gli organismi. Questo saggio descrive brevemente la storia delle idee teoriche evolutive sulla senescenza. Le teorie evolutive canoniche suggeriscono che l'aumento della mortalità e la diminuzione della fertilità dovrebbero essere onnipresenti. Tuttavia, un numero crescente di dati empirici dimostra che la senescenza potrebbe non essere una caratteristica universale della vita come si pensava un tempo e che esiste una diversità di traiettorie demografiche. Queste osservazioni empiriche supportano il lavoro teorico che indica che è possibile un'ampia gamma di traiettorie di mortalità e fertilità, tra cui la senescenza, la senescenza trascurabile e persino la senescenza negativa (miglioramento). Sebbene nel campo della biogerontologia rimangano molti misteri, è chiaro che la senescenza non è inevitabile.
+La senescenza, il deterioramento fisiologico che comporta un aumento della mortalità e un declino della fertilità con l'età, è molto diffusa nel regno animale ed è stata spesso considerata una caratteristica ineluttabile di tutti gli organismi. Questo saggio descrive brevemente la storia delle idee teoriche evolutive sulla senescenza. Le teorie evolutive canoniche suggeriscono che l'aumento della mortalità e la diminuzione della fertilità dovrebbero essere onnipresenti. **Tuttavia, un numero crescente di dati empirici dimostra che la senescenza potrebbe non essere una caratteristica universale della vita come si pensava un tempo** e che esiste una diversità di traiettorie demografiche. Queste osservazioni empiriche supportano il lavoro teorico che indica che è possibile un'ampia gamma di traiettorie di mortalità e fertilità, tra cui la senescenza, la senescenza trascurabile e persino la senescenza negativa (miglioramento). Sebbene nel campo della biogerontologia rimangano molti misteri, è chiaro che la senescenza non è inevitabile.
 
 ---
 

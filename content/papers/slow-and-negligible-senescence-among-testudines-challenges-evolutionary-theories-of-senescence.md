@@ -6,13 +6,13 @@ tags: ["natura", "senescenza trascurabile"]
 categories: ["articoli tradotti", "papers"]
 ---
 
-# Slow and negligible senescence among testudines challenges evolutionary theories of senescence
+**Slow and negligible senescence among testudines challenges evolutionary theories of senescence**
 
 Rita da Silva, Dalia A Conde, Annette Baudisch, Fernando Colchero
 
 ## Abstract
 
-La senescenza è inevitabile e universale per tutti gli organismi viventi, come prevedono le teorie evolutive? Sebbene le prove siano generalmente a favore di questa ipotesi, è stato proposto che alcune specie, come le tartarughe e le testuggini, possano presentare una senescenza lenta o addirittura trascurabile, evitando cioè il rischio crescente di morte dovuto al graduale deterioramento con l'età. In un ampio studio comparativo di tartarughe e testuggini che vivono in zoo e acquari, abbiamo dimostrato che circa il 75% di 52 specie presenta una senescenza lenta o trascurabile. Per circa l'80% delle specie, i tassi di invecchiamento sono inferiori a quelli dell'uomo moderno. Abbiamo scoperto che il peso corporeo è correlato positivamente all'aspettativa di vita adulta in entrambi i sessi e che il dimorfismo sessuale delle dimensioni spiega le differenze di sesso nella longevità. A differenza dell'uomo e di altre specie, dimostriamo che tartarughe e testuggini possono ridurre la senescenza in risposta al miglioramento delle condizioni ambientali.
+La senescenza è inevitabile e universale per tutti gli organismi viventi, come prevedono le teorie evolutive? Sebbene le prove siano generalmente a favore di questa ipotesi, è stato proposto che alcune specie, come le tartarughe e le testuggini, possano presentare una senescenza lenta o addirittura *trascurabile*, evitando cioè il rischio crescente di morte dovuto al graduale deterioramento con l'età. In un ampio studio comparativo di tartarughe e testuggini che vivono in zoo e acquari, abbiamo dimostrato che circa il 75% di 52 specie presenta una senescenza lenta o *trascurabile*. Per circa l'80% delle specie, i tassi di invecchiamento sono inferiori a quelli dell'uomo moderno. Abbiamo scoperto che il peso corporeo è correlato positivamente all'aspettativa di vita adulta in entrambi i sessi e che il dimorfismo sessuale delle dimensioni spiega le differenze di sesso nella longevità. A differenza dell'uomo e di altre specie, dimostriamo che tartarughe e testuggini possono ridurre la senescenza in risposta al miglioramento delle condizioni ambientali.
 
 ## Cita il paper
 
