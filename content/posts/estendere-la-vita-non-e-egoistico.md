@@ -1,5 +1,5 @@
 ---
-title: "Estendere la Vita Non è Egoistico"
+title: "Estendere la vita non è egoistico"
 date: 2022-04-27T18:31:23+02:00
 draft: false
 tags: ["etica", "faq", "logica"]
