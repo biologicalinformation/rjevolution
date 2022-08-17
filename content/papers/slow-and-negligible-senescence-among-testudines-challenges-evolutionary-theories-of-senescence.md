@@ -1,5 +1,5 @@
 ---
-title: "Una Senescenza Lenta e Trascurabile Tra le Testudini Sfida le Teorie Evolutive sulla Senescenza | Science"
+title: "Una senescenza lenta e trascurabile tra le testudines sfida le teorie evolutive sulla senescenza | Science"
 date: 2022-06-24T20:47:06+02:00
 draft: false
 tags: ["natura", "senescenza trascurabile"]

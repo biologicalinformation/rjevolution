@@ -1,5 +1,5 @@
 ---
-title: "L'invecchiamento Corrisponde ai Criteri di Malattia della Classificazione Internazionale delle Malattie | Mechanisms of Ageing and Development"
+title: "L'invecchiamento corrisponde ai criteri di malattia della Classificazione Internazionale delle Malattie | Mechanisms of Ageing and Development"
 date: 2020-03-09T00:42:34+02:00
 draft: false
 tags: ["definizioni"]

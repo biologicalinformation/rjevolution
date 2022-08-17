@@ -1,5 +1,5 @@
 ---
-title: "La Senescenza Non È Inevitabile | Biogerontology"
+title: "La senescenza non è inevitabile | Biogerontology"
 date: 2017-08-28T19:20:17+02:00
 draft: false
 tags: ["evoluzione", "natura", "senescenza trascurabile"]
