@@ -8,7 +8,11 @@ categories: ["da espandere"]
 
 Col termine "trance pro invecchiamento" o "pro-aging trance" si intende l'atteggiamento ampiamente positivo e fatalista verso l'invecchiamento, che tende a respingere la ricerca sul ringiovanimento e l'estensione della vita.
 
-Da [Wikipedia](https://en.wikipedia.org/w/index.php?title=Pro-aging_trance&oldid=1098525170):
+Ho osservato direttamente persone, con figli piccoli, dire "meno male che si invecchia, sennò siamo in troppi". Persone che, quindi, non tengono alla propria salute né a quella di nessun altro, desiderando la propria e altrui morte, oltre che ignorare con estrema superficialità tutti i fattori demografici: https://andrewsteele.co.uk/blog/2021/10/ageing-overpopulation-video-ethics/.
+
+Però si riproducono, costringendo probabilmente i loro figli (che non avevano chiesto di nascere e quindi sono stati messi al mondo per scopi dei genitori, o della società) a vivere per morire e non per vivere ed essere felici. Senza porsi alcun problema su come i figli potrebbero vedere la cosa.
+
+[Pro aging trance](https://en.wikipedia.org/w/index.php?title=Pro-aging_trance&oldid=1098525170) (da wikipedia inglese):
 
 ---
 
@@ -55,7 +59,7 @@ Per gentile concessione di Guardian News & Media
 
 [\*] Appello alla normalità/tradizione/natura
 
-### Ignoranza e trascuratezza dell'invencchiamento
+### Ignoranza e trascuratezza dell'invecchiamento
 
 “Per caso, mi sono ritrovata seduta tra un’anziana signora in pensione e una giovane madre ginecologa, e le due donne hanno cominciato a parlare di menopausa,” ricorda Odette.
 
@@ -67,9 +71,9 @@ Durante il tragitto, la donna in pensione aveva cominciato a piangere e aveva sp
 
 Fonte: https://www.vice.com/it/article/93ygne/nudi-femminili-maturi-belles-momes
 
-Ma perché porre la questione in termini di "quasi che non mi sia permesso di invecchiare"? Il problema non è il giudizio della gente. Il problema è che il corpo si sta disintegrando, con tutte le implicazioni annesse, di salute, relazionali e di sessualità. Guardate che sentirsi indesiderati non è un problema psicologico da poco. Può riguardare qualsiasi età, ma dopo una certa sei automaticamente scartato, e questo ha anche un senso biologico (non si può imporre di essere attratti a priori, l'attrazione è selettiva perché si è evoluta nella ricerca di ciò che è più salutare e quindi più giovanile). L'unica soluzione vera è far sì che l'età biologica rimanga giovanile. Ovviamente la chirurgia estetica e il botulino sono false soluzioni che non risolvono nulla (se poi a qualcuno migliorano un po' l'umore, fa piacere).
+Ma perché porre la questione in termini di "quasi che non mi sia permesso di invecchiare"? Il problema *non* è il giudizio della gente. Il problema è che il corpo si disintegra, con tutte le implicazioni annesse, di salute, e relazionali. Guardate che essere e sentirsi indesiderati non è un problema da poco. Può riguardare qualsiasi età, ma dopo una certa sei automaticamente scartato, e questo ha anche un senso biologico (non si può imporre di essere attratti a priori, l'attrazione è selettiva perché si è evoluta nella ricerca di ciò che è più salutare e quindi più giovanile). L'unica soluzione vera è far sì che l'età biologica rimanga giovanile. La giovinezza non è tanto una questione temporale, ma strutturale. Ovviamente la chirurgia estetica e il botulino sono false soluzioni che non risolvono nulla (se poi a qualcuno migliorano un po' l'umore, ben vengano).
 
-"Può davvero essere stressante". Ah be', se è stressante la pressione sociale, pensa perdere la salute e la vita come deve essere stressante (tutte cose che l'invecchiamento causa).
+"Può davvero essere stressante". Ah be', se è stressante la pressione sociale, pensa quanto deve essere stressante perdere la salute, i propri cari, e la vita (tutte cose che l'invecchiamento causa). Siamo ancora immersi nel giudizio.
 
 Rimango sempre basito di fronte a questa alienazione estrema.
 
