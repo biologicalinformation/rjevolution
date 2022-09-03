@@ -36,12 +36,17 @@ Un po' di bibliografia e riferimenti utili (lista parziale, in aggiornamento).
 * Georg Fuellen, Ludger Jansen, Alan A Cohen, Walter Luyten, Manfred Gogol, Andreas Simm, Nadine Saul, Francesca Cirulli, Alessandra Berry, Peter Antal, Rüdiger Köhling, Brecht Wouters, Steffen Möller. Health and Aging: Unifying Concepts, Scores, Biomarkers and Pathways. _Aging and disease_. 2019, 10(4): 883-900 [doi:10.14336/AD.2018.1030](https://doi.org/10.14336/AD.2018.1030)
 * Sierra, Felipe. 2016. “The Emergence of Geroscience as an Interdisciplinary Approach to the Enhancement of Health Span and Life Span.” Cold Spring Harbor Perspectives in Medicine 6 (4): a025163. https://doi.org/10.1101/cshperspect.a025163.
 * Bulterijs, Sven, Raphaella S. Hull, Victor C. E. Björk, and Avi G. Roy. 2015. “It Is Time to Classify Biological Aging as a Disease.” _Frontiers in Genetics_ 6 (June): 205. https://doi.org/10.3389/fgene.2015.00205.
+* Brown, Guy C. 2015. “Living Too Long: The Current Focus of Medical Research on Increasing the Quantity, rather than the Quality, of Life Is Damaging Our Health and Harming the Economy.” _EMBO Reports_ 16 (2): 137–41. https://doi.org/10.15252/embr.201439518.
 * Kennedy, Brian K., Shelley L. Berger, Anne Brunet, Judith Campisi, Ana Maria Cuervo, Elissa S. Epel, Claudio Franceschi, et al. 2014. “Geroscience: Linking Aging to Chronic Disease.” _Cell_ 159 (4): 709–13. https://doi.org/10.1016/j.cell.2014.10.039.
 * López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. _Cell_. 2013;153: 1194–1217. [doi:10.1016/j.cell.2013.05.039](https://doi.org/10.1016/j.cell.2013.05.039).
 * Mahmoudi S, Brunet A. Aging and reprogramming: a two-way street. _Curr Opin Cell Biol_. 2012;24: 744–756. [doi:10.1016/j.ceb.2012.10.004](https://doi.org/10.1016/j.ceb.2012.10.004).
 * Cutas, D. E. 2008. “Life Extension, Overpopulation and the Right to Life: Against Lethal Ethics.” _Journal of Medical Ethics_ 34 (9): e7. https://doi.org/10.1136/jme.2007.023622.
 * Bostrom, N. 2005. “The Fable of the Dragon Tyrant.” Journal of Medical Ethics 31 (5): 273–77. https://doi.org/10.1136/jme.2004.009035.
 * Harman, D. 1991. “The Aging Process: Major Risk Factor for Disease and Death.” _Proceedings of the National Academy of Sciences of the United States of America_ 88 (12): 5360–63. https://doi.org/10.1073/pnas.88.12.5360.
+
+#### Non inevitabile
+
+* Brown, Guy C. 2015. “Living Too Long: The Current Focus of Medical Research on Increasing the Quantity, rather than the Quality, of Life Is Damaging Our Health and Harming the Economy.” _EMBO Reports_ 16 (2): 137–41. https://doi.org/10.15252/embr.201439518.
 
 ### Altro
 
