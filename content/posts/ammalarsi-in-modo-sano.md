@@ -1,5 +1,5 @@
 ---
-title: "Invecchiare in Salute = Ammalarsi In Modo Sano"
+title: "Invecchiare in salute = ammalarsi in modo sano"
 date: 2018-06-13T19:36:08+02:00
 draft: false
 tags: ["logica"]

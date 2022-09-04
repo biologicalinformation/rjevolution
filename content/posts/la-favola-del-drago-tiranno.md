@@ -1,5 +1,5 @@
 ---
-title: "La Favola del Drago Tiranno"
+title: "La favola del drago tiranno"
 date: 2022-06-29T19:59:51+02:00
 draft: false
 tags: ["etica", "retorica", "filosofia"]

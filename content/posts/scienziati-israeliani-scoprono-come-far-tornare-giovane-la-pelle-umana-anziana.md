@@ -1,5 +1,5 @@
 ---
-title: "Scienziati Israeliani Scoprono Come Far Tornare Giovane La Pelle Umana Anziana"
+title: "Scienziati israeliani scoprono come far tornare giovane la pelle umana anziana"
 date: 2022-06-24T21:30:50+02:00
 draft: false
 tags: ["ringiovanimento", "ricerca"]

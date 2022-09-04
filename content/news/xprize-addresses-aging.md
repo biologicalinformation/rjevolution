@@ -1,5 +1,5 @@
 ---
-title: "XPRIZE AFFRONTA IL TEMA DELL'INVECCHIAMENTO E INDIVIDUA 12 SCOPERTE PER LA LONGEVITÀ UMANA"
+title: "Xprize affronta il tema dell'invecchiamento e individua 12 scoperte per la longevità umana"
 date: 2019-08-01T19:08:50+02:00
 draft: false
 ---

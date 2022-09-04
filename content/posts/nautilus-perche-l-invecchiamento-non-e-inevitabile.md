@@ -1,5 +1,5 @@
 ---
-title: "Perché l'Invecchiamento Non È Inevitabile"
+title: "Perché l'invecchiamento non è inevitabile"
 date: 2016-05-09T18:39:57+02:00
 draft: false
 tags: ["natura", "senescenza trascurabile", "evoluzione"]

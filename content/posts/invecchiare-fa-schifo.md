@@ -1,5 +1,5 @@
 ---
-title: "Invecchiare Fa Schifo"
+title: "Invecchiare fa schifo"
 date: 2013-12-13T17:11:08+02:00
 draft: false
 categories: ["articoli tradotti"]
