@@ -6,11 +6,11 @@ tags: ["pro-aging trance", "logica"]
 categories: ["da espandere"]
 ---
 
-Col termine "trance pro invecchiamento" o "pro-aging trance" si intende l'atteggiamento ampiamente positivo e fatalista verso l'invecchiamento, che tende a respingere la ricerca sul ringiovanimento e l'estensione della vita.
+Col termine "trance pro invecchiamento" o "pro-aging trance" si intende l'atteggiamento ampiamente positivo e fatalista verso l'invecchiamento, che tende a respingere la ricerca sul ringiovanimento e l'estensione della vita (che è il risultato del miglioramento vero della sua qualità, il quale è lo scopo vero di questa ricerca). La pro-aging trance potrebbe essere definita anche "alienazione pro-invecchiamento" o "dissonanza cognitiva pro-invecchiamento".
 
-Ho osservato direttamente persone, con figli piccoli, dire "meno male che si invecchia, sennò siamo in troppi". Persone che, quindi, non tengono alla propria salute né a quella di nessun altro, desiderando la propria e altrui morte, oltre che ignorare con estrema superficialità tutti i fattori demografici: https://andrewsteele.co.uk/blog/2021/10/ageing-overpopulation-video-ethics/.
+Ho osservato direttamente persone, con figli piccoli, dire "meno male che si invecchia, sennò siamo in troppi". Persone che, quindi, non tengono alla propria salute né a quella di nessun altro, desiderando la propria e altrui morte, compresa quella dei propri figli, oltre che ignorare con estrema superficialità tutti i fattori demografici: https://andrewsteele.co.uk/blog/2021/10/ageing-overpopulation-video-ethics/.
 
-Però si riproducono, costringendo probabilmente i loro figli (che non avevano chiesto di nascere e quindi sono stati messi al mondo per scopi dei genitori, o della società) a vivere per morire e non per vivere ed essere felici. Senza porsi alcun problema su come i figli potrebbero vedere la cosa.
+Però costoro si riproducono, costringendo probabilmente i loro figli (che non avevano chiesto di nascere e quindi sono stati messi al mondo per scopi dei genitori, o della società) a vivere per lavorare, riprodursi e morire, e non per vivere ed essere felici loro stessi. Senza porsi alcun problema su come i figli potrebbero vedere la cosa, data la loro irriducibile diversità e unicità. Si ricordi che molti bambini piangono disperati quando scoprono la morte, e molti sviluppano traumi importanti. Alcuni di essi faranno una carriera scientifica in medicina, biologia o fisica per risolvere il problema della perdita definitiva della salute.
 
 [Pro aging trance](https://en.wikipedia.org/w/index.php?title=Pro-aging_trance&oldid=1098525170) (da wikipedia inglese):
 
@@ -39,13 +39,15 @@ Per far comprendere questi problemi, sono attivi anche altri ricercatori del set
 Riporto un pezzetto di un'intervista del biologo Andrew Steele pubblicata sul Guardian a questo indirizzo: https://www.theguardian.com/science/2021/jan/03/observer-magazine-do-we-have-to-age-biologist-andrew-steele.
 
 ---
+(brani dell'intervista)
+
 Quando Steele parla del suo lavoro con le persone, la domanda che gli viene posta più spesso è: "E la sovrappopolazione?". Ha una risposta che, secondo lui, evidenzia la ridicolaggine della domanda. "Immaginate di trovarvi di fronte a 15 miliardi di persone sulla Terra", dice. "Ci sono molti modi per cercare di affrontare il problema. Uno di questi sarebbe: inventare l'invecchiamento?".
 
 Il fatto che gli venga posta questa domanda così spesso lo frustra. Inoltre, è infastidito dall'implicazione che ciò che sta suggerendo sia in qualche modo strano o disumano o empio, piuttosto che in ultima analisi utile per la società. "Se avessi scritto un libro su come curare la leucemia infantile con una nuova medicina straordinaria", dice, "nessuno mi direbbe: Ma non aumenterà la popolazione mondiale?".
 
 Scuote la testa.
 
-Quello che voglio dire è: "Ecco un'idea che potrebbe curare il cancro, le malattie cardiache, l'ictus..." Guarire una qualsiasi di queste cose ti farebbe ottenere il plauso. Ma non appena suggerisci un modo potenzialmente efficace per affrontarle tutte, improvvisamente diventi uno scienziato pazzo che vuole sovrappopolarci fino a provocare una terribile apocalisse ambientale?
+Quello che voglio dire è: "Ecco un'idea che potrebbe curare il cancro, le malattie cardiache, l'ictus...". Guarire una qualsiasi di queste cose ti farebbe ottenere il plauso. Ma non appena suggerisci un modo potenzialmente efficace per affrontarle tutte, improvvisamente diventi uno scienziato pazzo che vuole sovrappopolarci fino a provocare una terribile apocalisse ambientale?
 
 Steele ritiene che questo sia un ostacolo importante per il potenziale successo della biogerontologia: il nostro "incredibile pregiudizio verso lo status quo" dell'invecchiamento come processo inevitabile e la nostra incapacità di accettarlo come prevenibile. "Se vivessimo in una società in cui l'invecchiamento non esiste e all'improvviso due terzi delle persone cominciassero a degenerare nel corso dei decenni, a perdere la forza, le facoltà mentali e a soccombere a queste terribili malattie, sarebbe impensabile. E naturalmente ci metteremmo al lavoro per cercare di curarle".
 
@@ -71,10 +73,10 @@ Durante il tragitto, la donna in pensione aveva cominciato a piangere e aveva sp
 
 Fonte: https://www.vice.com/it/article/93ygne/nudi-femminili-maturi-belles-momes
 
-Ma perché porre la questione in termini di "quasi che non mi sia permesso di invecchiare"? Il problema *non* è il giudizio della gente. Il problema è che il corpo si disintegra, con tutte le implicazioni annesse, di salute, e relazionali. Guardate che essere e sentirsi indesiderati non è un problema da poco. Può riguardare qualsiasi età, ma dopo una certa sei automaticamente scartato, e questo ha anche un senso biologico (non si può imporre di essere attratti a priori, l'attrazione è selettiva perché si è evoluta nella ricerca di ciò che è più salutare e quindi più giovanile). L'unica soluzione vera è far sì che l'età biologica rimanga giovanile. La giovinezza non è tanto una questione temporale, ma strutturale. Ovviamente la chirurgia estetica e il botulino sono false soluzioni che non risolvono nulla (se poi a qualcuno migliorano un po' l'umore, ben vengano).
+Ma perché porre la questione in termini di "quasi che non mi sia permesso di invecchiare"? Il problema *non* è il giudizio della gente. Il problema è che il corpo si disintegra, con tutte le implicazioni annesse, di salute, e relazionali. Guardate che, oltre alla perdita di salute, essere e sentirsi indesiderati non è un problema da poco. Può riguardare qualsiasi età, ma dopo una certa sei automaticamente scartato, e questo ha anche un senso biologico (non si può imporre di essere attratti a priori, l'attrazione è selettiva perché si è evoluta nella ricerca di ciò che è più salutare e quindi più giovanile). L'unica soluzione vera è far sì che l'età biologica rimanga giovanile. La giovinezza non è tanto una questione temporale, ma strutturale. Ovviamente la chirurgia estetica e il botulino sono false soluzioni che non risolvono nulla (se poi a qualcuno migliorano un po' l'umore, ben vengano).
 
-"Può davvero essere stressante". Ah be', se è stressante la pressione sociale, pensa quanto deve essere stressante perdere la salute, i propri cari, e la vita (tutte cose che l'invecchiamento causa). Siamo ancora immersi nel giudizio.
+"Può davvero essere stressante". Ah be', se è stressante la pressione sociale, pensa quanto deve essere stressante perdere la salute, i propri cari, e la vita (tutte cose che l'invecchiamento distrugge). Siamo ancora immersi nel giudizio.
 
 Rimango sempre basito di fronte a questa alienazione estrema.
 
-Non ha alcun senso giudicare le persone che invecchiano, ma contro l'invecchiamento non si deve avere alcuna pietà. Come si fa a non scindere le due cose?
+Non ha alcun senso giudicare le persone che invecchiano, ma contro l'invecchiamento non si deve avere alcuna pietà. Come si fa a non capire che si possono scindere le due cose?
