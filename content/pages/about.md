@@ -92,7 +92,7 @@ Concetti chiave trattati in questo sito e che si cerca di tenere insieme in modo
 
 Ho una laurea magistrale in scienze biologiche, con particolare orientamento su neuroscienze ed evoluzione, lavoro in biologia computazionale, ma mi interesso molto anche di etica e filosofia.
 
-Alcuni link interessanti:
+## Alcuni link interessanti
 
 * 2008 - [Life extension, overpopulation and the right to life: against lethal ethics | jme](https://jme.bmj.com/content/34/9/e7)
 * 2017 - [Why Die? | CGP Grey](https://youtu.be/C25qzDhGLx8)
@@ -104,8 +104,9 @@ Alcuni link interessanti:
 * 2021 - [Aging in unity. _Nature Aging_ 1, 1 (2021)](https://doi.org/10.1038/s43587-020-00022-2)
 * 2022 - [Is Aging Reversible? A Scientific Look with David Sinclair | David Sinclair | TEDxBoston](https://youtu.be/cLZEEOZlTzo)
 * 2022 - [Getting older without getting old - with Andrew Steele | The Royal Institution](https://youtu.be/fX9P1xuIJGg)
+    * [https://corriereinnovazione.corriere.it/cards/segreto-dell-eterna-gioventu-biologo-andrew-steele-invecchiare-buona-salute/senilita-malattia-che-puo-essere-curata.shtml](https://corriereinnovazione.corriere.it/cards/segreto-dell-eterna-gioventu-biologo-andrew-steele-invecchiare-buona-salute/senilita-malattia-che-puo-essere-curata.shtml) 
 
-Papers:
+### Pepers
 
 1. 	Georg Fuellen, Ludger Jansen, Alan A Cohen, Walter Luyten, Manfred Gogol, Andreas Simm, Nadine Saul, Francesca Cirulli, Alessandra Berry, Peter Antal, Rüdiger Köhling, Brecht Wouters, Steffen Möller. Health and Aging: Unifying Concepts, Scores, Biomarkers and Pathways. _Aging and disease_. 2019, 10(4): 883-900 [doi:10.14336/AD.2018.1030](https://doi.org/10.14336/AD.2018.1030)
 1. 	Khaltourina D, Matveyev Y, Alekseev A, Cortese F, Ioviţă A. Aging Fits the Disease Criteria of the International Classification of Diseases. _Mech Ageing Dev._ 2020;189: 111230. [doi:10.1016/j.mad.2020.111230](https://doi.org/10.1016/j.mad.2020.111230).
