@@ -45,54 +45,59 @@ Altri problemi correlati all'invecchiamento:
 
 ### Perché molta gente non vede chiaramente il problema dell'invecchiamento?
 
-Probabilmente per un insieme di motivi tra cui:
-
-Il credere che sia inevitabile (credenza assai comprensibile) aiuta.
+Il credere che sia inevitabile (credenza assai comprensibile) aiuta, comunque questa dissonanza cognitiva avviene probabilmente per un insieme di motivi tra cui:
 
 - negazione psicologica del problema
-    - teoria della gestione del terrore (una cosa percepita come terribile, inevitabile e lontana può finire presto nel dimenticatoio)
-    - scarsa educazione emotiva (non si è in contatto con i propri desideri e sentimenti, che vengono ignorati, soppressi, giudicati, come quello di rimanere sempre giovani e in salute)
-    - la psicologia stessa ha ignorato, negato il problema della morte, rifugiandosi molto spesso nella retorica
+    - teoria della gestione del terrore: una cosa percepita come terribile, ritenuta inevitabile e lontana può finire presto nel dimenticatoio
+    - scarsa educazione emotiva: non si è in contatto con i propri desideri e sentimenti, che vengono ignorati, soppressi, anche per paura del giudizio
+    - giudizio e senso di colpa: sentirsi giudicati per i propri desideri, che sono del tutto legittimi (ad esempio quello di voler continuare a rimanere in salute o giovani, di volere che i propri cari stiano bene, quindi sopravvivano, ecc.) 
+    - retorica del sacrificio e del dovere: credere che ci si debba sacrificare o che si debba seguire dei copioni preimpostati ed immutabili
     - sindrome di Stoccolma
     - appelli alla retorica
+    - la psicologia stessa ha ignorato, negato, il problema della morte e dell'invecchiamento, rifugiandosi molto spesso nella retorica
 - scarsa cultura logica, scientifica e filosofica
     - fallacie logiche e bias vari:
         - fallacie naturalistiche:
             - appello alla natura ("è naturale, quindi tutto ok")
             - confondere fatti con valori, descrizioni con prescrizioni ("è cosi quindi deve essere così", v. legge di Hume)
             - appello alla normalità ("è normale, quindi tutto ok")
-            - credere che la natura sia un'entità intelligente ed etica ()
+            - credere che la natura sia un'entità intelligente ed etica
         - appello alla tradizione ("è sempre stato così, quindi va bene")
-        - appello al passato ("ha vissuto un tot, quindi va bene")
+        - appello al passato ("ha vissuto un tot, la qualità di vita presente e futura non conta, possiamo buttarlo via")
     - ipotizzare non ben precisati problemi etici futuri
-        - senza problematizzare e analizzare criticamente la situazione attuale
-        - ignorando cosa è l'etica e su cosa si fonda
+        - senza problematizzare e analizzare criticamente l'eticità dello status quo, in cui vi è il problema etico delle persone che si ritrovano senza averlo scelto in un contesto di condanna a morte e senza poter scegliere. Non solo non vi è la certezza della felicità e del futuro, ma anzi l'unica certezza è la morte, ovvero lo scenario peggiore.
+        - ignorare cosa è l'etica e su cosa si fonda (benessere di creature coscienti, quindi emozioni e sentimenti)
     - mancanza di cultura biologica su:
         - evoluzione
-            - credere che l'evoluzione abbia degli scopi e che abbia pianificato che l'invecchiamento sia un mezzo per raggiungere tali scopi, o mantenerli
-            - biodiversità individuale
+            - credere che l'evoluzione abbia degli scopi predefiniti e che abbia pianificato che l'invecchiamento sia un mezzo per raggiungere tali scopi, o mantenerli
+                - credere che l'evoluzione abbia il fine di conservare le specie
+            - ignorare la biodiversità individuale
+            - credere che il cambiamento sia un fine e non un mezzo
         - invecchiamento biologico
             - credere che l'invecchiamento sia il passare del tempo
             - credere che l'invecchiamento sia inevitabile
             - credere che esista l'"invecchiamento sano"
-        - neurobiologia delle emozioni
+        - neurobiologia delle emozioni (relazioni con salute, sopravvivenza, ed evoluzione)
     - mancanza di integrazione tra etica, neurobiologia delle emozioni ed evoluzione
 
-Questa sorta di torpore, letargia, indifferenza, trance ("pro-aging trance") è riportata anche in alcuni paper scientifici.
+Questa sorta di torpore, letargia, indifferenza, alienazione, trance ("pro-aging trance") è riportata anche in alcuni paper scientifici.
 
 ### Cos'è l'estensione della vita?
 
-Con il termine "estensione della vita" si intende il concetto del mantenimento della vita *in salute* (non nella decrepitezza) per molto più tempo rispetto alla situazione attuale (il limite teorico dell'aspettativa di vita, "lifespan" è calcolato in 150 anni[3], anche se al massimo si sono raggiunti i 120 anni circa, ma l'aspettativa di vita in salute, healthspan in inglese, è molto più bassa).
+Lo scopo è migliorare e mantenere la salute del tempo in cui si vive. Il punto è che se la salute migliora veramente, anche la vita inevitabilmente si allunga.
+
+Con il termine "estensione della vita" si intende il concetto del mantenimento della *salute* (non della decrepitezza) per molto più tempo rispetto alla situazione attuale (il limite teorico dell'aspettativa di vita, "lifespan" è calcolato in 150 anni[3], anche se al massimo si sono raggiunti i 120 anni circa, ma l'aspettativa di vita in salute, healthspan in inglese, è molto più bassa).
 Per "estensione indefinita della vita" si intende il mantenimento della vita in salute a tempo indeterminato, che è intrinsecamente lo scopo etico dell'uomo e della medicina, dato che rispetta i valori di salute e libertà.
 
 **Attenzione** ai frequentissimi equivoci e alla seduzione retorica del tipo "aggiungi vita agli anni e non anni alla vita": lo _scopo_ di tutto ciò non è la mera durata, ma la **qualità della vita nel presente**.
-La qualità della vita richiede salute e quindi integrità fisiologica. Ma quando si riesce a ottenere il mantenimento dell'integrità fisiologica, automaticamente anche la vita si allunga. Questo perché una persona con un'età biologica corrispondente a quella di un venticinquenne medio ha alta probabilità di sopravvivere, perché ha alta resilienza (la struttura determina la funzione, quindi anche la resilienza).
+La qualità della vita richiede salute e quindi integrità fisiologica. Ma quando si riesce a ottenere il mantenimento dell'integrità fisiologica, automaticamente anche la vita si allunga. Questo perché una persona con un'età biologica corrispondente a quella di un venticinquenne medio, per esempio, ha alta probabilità di sopravvivere, perché ha alta resilienza (la struttura determina la funzione, quindi anche la resilienza).
 
-Probabilmente si dovrebbe usare il termine "estensione della salute" (o estensione della qualità di vita), ma date le premesse sopra, alla fine i concetti sono equivalenti.
+Probabilmente si dovrebbe usare il termine "estensione della salute" (o estensione della qualità di vita), ma date le premesse sopra, i concetti sono equivalenti. Non si può migliorare veramente la salute senza che insieme non si allunghi la vita, e non si può allungare la vita senza migliorare veramente la salute. Questi concetti chiave sfuggono anche ad alcuni filosofi che occasionalmente parlano di medicina, morte e vecchiaia (vedi Galimberti).
 
 L'estensione indefinita della vita quindi richiede necessariamente che l'invecchiamento (accumulo di danni) si fermi, perché oltre un certo limite si verifica un cedimento strutturale critico e quindi la morte. Pertanto, sono fisicamente impossibili gli scenari alla "mito di Titone" in cui si è "immortali" continuando a invecchiare ([Can You Age Forever? | LifeXtenShow](https://youtu.be/hZvCaRPp2ds)).
 
 Per approfondire:
+
 * (video) [What Is Life Extension? | LifeXtenShow](https://youtu.be/OzCzCWAxs2g) - video in inglese con sottotitoli anche in italiano
 * (video) [Perché Invecchiare? L'Estensione della Vita | Ulisse](https://youtu.be/waTXhLwsxYA) - Versione ridoppiata in italiano del video di Kurzgesagt - In a Nutshell
 
@@ -102,17 +107,20 @@ Lo scopo dell'estensione della vita è mantenere una salute e qualità della vit
 
 ### Benefici dell'estensione della vita in salute
 
-- Possibilità di mantenere salute e qualità della vita, che sono universalmente riconosciute come le cose fondamentali
-- Maggiore possibilità di realizzare e mantenere sogni
-- Possibilità di trovare sé stessi e l'eventuale anima gemella con tutta la dovuta calma
-- Avere tempo per mantenere questo stato
-- Avere tempo e possibilità per recuperare in seguito a gravi perdite
-- Rispettare la diversità e le persone più sensibili
-- Accumulo di consapevolezze, cultura ed esperienze e loro condivisione
-- No perdita di saggezza degli anziani
-- Avere giustizia (molte persone ottengono giustizia quando è troppo tardi o mai per la lentezza dei processi e il fatto che è tutto impostato per una vita breve)
-- Arrivare alla verità di misteri irrisolti (Ustica, e molti altri)
-- Poter vedere gli sviluppi futuri
+* Possibilità di mantenere salute e qualità della vita, che sono universalmente riconosciute come le cose fondamentali. In effetti è già surreale chiedere quali siano i benefici, perché è uno scopo che ha già senso in sé stesso senza secondi fini;
+* maggiore libertà
+* maggiore possibilità di realizzare, mantenere e sviluppare sogni (importante per la salute mentale);
+* possibilità di (ri)trovare/scoprire sé stessi e l'eventuale anima gemella, con tutta la dovuta calma, senza fretta e senza ansia;
+* avere tempo per rimanere nello stato desiderato
+* avere tempo e possibilità per recuperare in seguito a gravi problemi (che di solito sono di salute)
+* rispettare la diversità e le persone più sensibili (persone che tengono alla propria vita e a quella degli altri, e al benessere)
+* accumulo di consapevolezze, cultura ed esperienze e loro condivisione
+* parità dei diritti di salute, senza discriminazione anagrafica
+* eliminazione dell'ageismo
+* ridurre/evitare la perdita di saggezza degli anziani (che comunque rimarrebbero giovani)
+* ottenere giustizia: molte persone non ottengono giustizia o la ottengono quando è troppo tardi, per la lentezza dei processi e il fatto che è tutto impostato per una vita breve
+* arrivare alla verità di misteri irrisolti (Ustica, e molti altri)
+* poter vedere gli sviluppi futuri
 
 (video) [What Are The Benefits of Life Extension? | LifeXtenShow](https://youtu.be/zsQlgZX7hvQ)
 (video) [Life Extension | Isaac Arthur](https://www.youtube.com/watch?v=kKmdc2AuXec)
@@ -173,6 +181,14 @@ Implicazioni:
 * esiste necessariamente un qualcosa di eterno e immutabile. Alcuni esempi potrebbero esssere le leggi naturali, ovvero i principi di conservazione, la velocità della luce, ecc.
 * l'universo esiste sempre, perché se qualcosa esiste eternamente, deve esistere all'interno di un universo. Di nuovo si ritorna al fatto che è impossibile che tutto abbia inizio e fine.
 
+### Hanno dimostrato matematicamente che l'invecchiamento è inevitabile?
+
+Si entra nella sagra dei fraintendimenti giornalistici.
+
+1. Pyrkov, Timothy V., Konstantin Avchaciov, Andrei E. Tarkhov, Leonid I. Menshikov, Andrei V. Gudkov, and Peter O. Fedichev. 2021. “Longitudinal Analysis of Blood Markers Reveals Progressive Loss of Resilience and Predicts Human Lifespan Limit.” Nature Communications 12 (1): 2765. https://doi.org/10.1038/s41467-021-23014-1.
+1. Colchero, Fernando, José Manuel Aburto, Elizabeth A. Archie, Christophe Boesch, Thomas Breuer, Fernando A. Campos, Anthony Collins, et al. 2021. “The Long Lives of Primates and the ‘Invariant Rate of Ageing’ Hypothesis.” _Nature Communications_ 12 (1): 3666. https://doi.org/10.1038/s41467-021-23894-3.
+
+
 ### L'invecchiamento è naturale!
 
 Per farla breve, l'[_appello alla natura_](https://en.wikipedia.org/wiki/Appeal_to_nature) è una ben nota fallacia logica, quindi è un argomento intrinsecamente non valido, cioè non è sufficiente per dimostrare la validità di una tesi.
@@ -204,6 +220,8 @@ Link esterni sulle fallacie naturalistiche:
 * (video) [Errori di ragionamento: appello alla natura | Alessandro de Concini - ADC](https://youtu.be/-JiRRQ29RVQ)
 * https://bodycompacademy.it/academy/bias-cognitivi-fallacie-logiche/fallacia-ad-naturam-e-naturale-quindi-e-buono
 
+###
+
 ## Scenari apocalittici
 
 ### Sovrappopolazione
@@ -216,11 +234,17 @@ Vedi i dettagli nell'articolo dedicato: [salute e sovrappopolazione](/rjevolutio
 
 ### Dittatori superlongevi
 
+Il problema della dittatura quale sarebbe? Che sei costretto ha fare ciò che non vuoi, presumo.
+
+Quindi in che senso l'invecchiamento stesso non sarebbe un dittatore immortale della peggior specie?.
+
 Problema alla base di questa preoccupazione: sofferenza, mancanza di libertà (morte?).
 
 Soluzione immaginaria mantenendo l'invecchiamento: morire tutti di vecchiaia, che ti toglie la libertà progressivamente e uccide tutti quelli che conosci. Rimanere dentro la dittatura dell'invecchiamento non è una gran soluzione.
 
 Soluzione alternativa sensata: rimanere in salute e cambiare le cose.
+
+Tra l'altro queste idee sono figlie di concezioni tipo il determinismo genetico, cioè credere che uno nasce dittatore e non potrà mai cambiare. Il cervello è un po' più plastico di così.
 
 (video) [Immortal dictators? | LifeXtenShow](https://youtu.be/5etIiEWO_lE)
 
@@ -246,11 +270,17 @@ In ogni caso se uno proprio non volesse più vivere, non sarebbe un problema. L'
 
 > Perché dovrebbe? Tanto, smetto quando voglio… [link](https://qr.ae/pvPctP)
 
+È tutta una questione di dare la libertà di scelta sul proprio presente.
+
+Il concetto chiave è che finché si sta bene non si vuole morire, a prescindere dall'età. E anche quando si sta male si vorrebbe tornare a stare bene, se possibile.
+
 ### La gente si suicida già ora
 
 I motivi del suicidio sono spesso legati a malattia e morte, in generale a perdite, non certo alla salute e alla possibilità di rifarsi una vita piena.
 
-In generale sono tutti collegati a violenza e danno, cioè a cose brutte. Quindi il problema sono le cose brutte, 
+In generale sono tutti collegati a violenza (fisica e/o psicologica) e danno, cioè a cose brutte. Quindi il problema sono le cose brutte, non è la durata della vita.
+
+Il concetto chiave è che finché uno sta bene vuole vivere.
 
 ### I lati buoni dell'invecchiamento
 
@@ -275,4 +305,3 @@ Tra l'altro potrebbe spiegare una enorme fetta dei casi di depressione, dato che
 [2] Aging in unity. _Nature Aging_ 1, 1 (2021). https://doi.org/10.1038/s43587-020-00022-2
 
 [3] Pyrkov, T.V., Avchaciov, K., Tarkhov, A.E. et al. Longitudinal analysis of blood markers reveals progressive loss of resilience and predicts human lifespan limit. _Nat Commun_ 12, 2765 (2021). https://doi.org/10.1038/s41467-021-23014-1
-
