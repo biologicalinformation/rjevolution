@@ -15,7 +15,9 @@ Come se questo dovesse implicare qualcos'altro, tipo che allora è tutto ok, e c
 
 https://yourlogicalfallacyis.com/appeal-to-nature
 
-Per l'uomo (per lo meno per chi ha atteggiamento razionale, scientifico, filosofico) ragionare è abbastanza naturale. Quando ci si trova davanti a un fenomeno naturale, si cerca di capire *perché* questo fenomeno si verifica, da cosa è determinato, a cosa è correlato, quali ne sono le cause, le condizioni. È necessario? È inevitabile? La mera osservazione non fornisce di per sé una risposta a queste domande, è solo un punto di partenza.
+Per l'uomo (per lo meno per chi ha atteggiamento razionale, scientifico, filosofico) ragionare è abbastanza naturale.
+Quando ci si trova davanti a un fenomeno naturale, si cerca di capire *perché* questo fenomeno si verifica, da cosa è determinato, a cosa è correlato, quali ne sono le cause, le condizioni.
+È necessario? È inevitabile? La mera osservazione non fornisce di per sé una risposta a queste domande, è solo un punto di partenza.
 
 Ci sono moltissimi modi per mostrare l'infondatezza di questa obiezione ("è naturale quindi va bene e/o è inevitabile"), anche perché può significare molte cose diverse. Ecco una veloce carrellata:
 
@@ -42,20 +44,25 @@ Approfondiamo.
 
 Fonte immagine: https://www.facebook.com/foodsciencebabe/posts/pfbid02gL9vZd95wpcRgoj6jZjCi4Mv9syXj7Mmvi8TmnM4Jupea7RehTkaq17hbC9MEGX8l
 
-La fallacia dell'appello alla natura è la convinzione che qualcosa sia buono o giusto perché è naturale. Non è sempre così, perché le cose naturali possono essere dannose (come le piante velenose). Pertanto, l'appello alla natura non è un argomento valido.
+La fallacia dell'appello alla natura è la convinzione che qualcosa sia buono o giusto perché è naturale.
+Non è sempre così, perché le cose naturali possono essere dannose (come le piante velenose).
+Pertanto, l'appello alla natura non è un argomento valido.
 
 Infatti ci sono altre cose che sono perfettamente naturali, ma contro cui combattiamo:
 * cancro
 * malattie di tutti i tipi
 * invecchiamento e morte (il desiderio dell'eterna giovinezza esiste da tempo immemore)
 
-Nota. Tutti sono d'accordo nel combattere il cancro, ma pochi sanno che, nel caso in cui fosse completamente sconfitto, il guadagno come aspettativa di vita sarebbe di soli 3 anni circa. Tre! Inoltre quasi nessuno sa la relazione tra invecchiamento e cancro, che è molto forte. Il cancro si può prendere a qualsiasi età ma il rischio aumenta molto con l'aumentare dei danni (invecchiamento).
+Nota. Tutti sono d'accordo nel combattere il cancro, ma pochi sanno che, nel caso in cui fosse completamente sconfitto, il guadagno come aspettativa di vita sarebbe di soli 3 anni circa. Tre!
+Inoltre quasi nessuno sa la relazione tra invecchiamento e cancro, che è molto forte.
+Il cancro si può prendere a qualsiasi età ma il rischio aumenta molto con l'aumentare dei danni (invecchiamento).
 
 https://yourlogicalfallacyis.com/appeal-to-nature
 
 ### Il famoso "ordine naturale delle cose"
 
-Esiste, in molti uomini (quindi come prodotto dell'uomo?), un'idea della natura come di un qualcosa che è sempre in perfetto equilibrio armonioso, poi arriva l'uomo e rompe gli equilibri naturali. Ti sarà capitato di sentirlo, vero?
+Esiste, in molti uomini (quindi come prodotto dell'uomo?), un'idea della natura come di un qualcosa che è sempre in perfetto equilibrio armonioso, poi arriva l'uomo e rompe gli equilibri naturali.
+Ti sarà capitato di sentirlo, vero?
 Purtroppo questa è una visione estremamente miope e distorta della natura, che non regge di fronte alle evidenze più clamorose.
 
 La natura *non* è affatto in equilibrio. Ci sono molti esempi di sconvolgimenti naturali senza l'intervento dell'uomo. Eccone alcuni:
@@ -67,19 +74,29 @@ La natura *non* è affatto in equilibrio. Ci sono molti esempi di sconvolgimenti
 
 No, la natura non è in equilibrio e non rispetta gli esseri viventi. È cruenta ed è priva di etica.
 
-Se la natura fosse in un perfetto equilibrio armonico non vedremmo sbudellamenti, malattie, cancro ed estinzioni di massa. Non ci sarebbe stato nemmeno il Big Bang (che non spiega l'origine dell'esistenza, ma l'espansione dell'universo è un dato di fatto).
+Se la natura fosse in un perfetto equilibrio armonico non vedremmo sbudellamenti, malattie, cancro ed estinzioni di massa.
+Non ci sarebbe stato nemmeno il Big Bang (che non spiega l'origine dell'esistenza, ma l'espansione dell'universo è un dato di fatto).
 
-Ovviamente, neanche l'uomo è uno stinco di santo, e fa anche lui più danni della grandine (toh, altra cosa naturale associata a danni: la grandine), in maniera molto stupida. Ad esempio l'inquinamento atmosferico di origine antropica uccide circa 9 miliardi di persone l'anno, circa 24,000 persone al giorno. Ma non certo più dell'invecchiamento che ne fa almeno 100,000, di morti al giorno... non si batte.
+Ovviamente, neanche l'uomo è uno stinco di santo, e fa anche lui più danni della grandine (toh, altra cosa naturale associata a danni: la grandine), in maniera molto stupida.
+Ad esempio l'inquinamento atmosferico di origine antropica uccide circa 9 miliardi di persone l'anno, circa 24,000 persone al giorno.
+Ma non certo più dell'invecchiamento che ne fa almeno 100,000, di morti al giorno... non si batte.
 
-Del resto anche l'uomo è parte della natura e non nasce consapevole, poi piano piano (molto piano), forse inizia ad avere consapevolezza di cosa sono i danni e di cosa è l'etica. Ma è un processo che parte da un'ignoranza di base che appartiene anche alla natura. Per costruire l'intelligenza ci vuole molto tempo, milioni o miliardi di anni.
+Del resto anche l'uomo è parte della natura e non nasce consapevole, poi piano piano (molto piano), forse inizia ad avere consapevolezza di cosa sono i danni e di cosa è l'etica.
+Ma è un processo che parte da un'ignoranza di base che appartiene anche alla natura.
+Per costruire l'intelligenza ci vuole molto tempo, milioni o miliardi di anni.
 
 ### Legge di Hume o fallacia naturalistica
 
-La legge di Hume è spesso riassunta come "nessun dovere dall'essere". Ciò significa che non si può derivare un'affermazione "dovrebbe" da un insieme di affermazioni "è". In altre parole, non si può ricavare un'affermazione morale da un insieme di affermazioni fattuali.
+La legge di Hume è spesso riassunta come "nessun dovere dall'essere".
+Ciò significa che non si può derivare un'affermazione "dovrebbe" da un insieme di affermazioni "è".
+In altre parole, non si può ricavare un'affermazione morale da un insieme di affermazioni fattuali.
 
-Insomma, non si può concludere ciò che si dovrebbe fare sulla base di una descrizione di ciò che è. Non si può dire che qualcosa dovrebbe essere in un certo modo solo perché è in un certo modo. Non si può dire che qualcosa dovrebbe accadere solo perché sta accadendo. Non si può derivare una prescrizione (o un "deve essere") da una descrizione (o da un "è").
+Insomma, non si può concludere ciò che si dovrebbe fare sulla base di una descrizione di ciò che è.
+Non si può dire che qualcosa dovrebbe essere in un certo modo solo perché è in un certo modo. Non si può dire che qualcosa dovrebbe accadere solo perché sta accadendo.
+Non si può derivare una prescrizione (o un "deve essere") da una descrizione (o da un "è").
 
-Applicato all'invecchiamento, chi afferma che è naturale sta osservando un fatto naturale, une descrizione della realtà per come è adesso, e ne sta derivando che "dovrebbe essere così". Solo per il fatto che è così. Hume fa semplicemente notare che è un salto logico non valido.
+Applicato all'invecchiamento, chi afferma che è naturale sta osservando un fatto naturale, une descrizione della realtà per come è adesso, e ne sta derivando che "dovrebbe essere così".
+Solo per il fatto che è così. Hume fa semplicemente notare che è un salto logico non valido.
 
 Si chiama anche "Fallacia naturalistica" (nota anche come: fallacia dell'is-ought, argomentazione dall'is all'ought, fallacia dell'is-should)
 
@@ -94,13 +111,21 @@ Ho sentito spesso dire che l'invecchiamento sarebbe una non ben specificata "leg
 Di solito chi dice queste cose non sa nulla di biologia, meno che meno di biologia dell'invecchiamento, evoluzione, natura o fisica. Ma ripete cose vaghe, senza minimamente approfondire (anche questo ripetere acriticamente è piuttosto naturale, ci siamo evoluti biologicamente e culturalmente in gran parte ripetendo ciò che ci precedeva, senza porsi troppe domande).
 Tra l'altro molti fanno un gran minestrone tra sistemi biologici e non biologici, credendo ad esempio che le stelle siano esseri viventi solo perché si parla di "ciclo di vita" di una stella.
 
-Ma esattamente poi, quale legge di natura sarebbe? Se gli si chiede, la risposta credo sia invariabilmente "si nasce, si cresce, ci si riproduce, si invecchia, e si muore", o simile, immagino. Ah, ok. Peccato che questa non sia una legge di natura, al limite è una osservazione che riguarda la maggior parte degli organismi presenti sulla Terra (di cui conosciamo solo una piccola parte), ma non è considerata né una legge biologica, né una legge fisica, in biologia e fisica. E naturalmente da una descrizione non si può derivare una prescrizione etica (legge di Hume).
+Ma esattamente poi, quale legge di natura sarebbe?
+Se gli si chiede, la risposta credo sia invariabilmente "si nasce, si cresce, ci si riproduce, si invecchia, e si muore", o simile, immagino. Ah, ok.
+Peccato che questa non sia una legge di natura, al limite è una osservazione che riguarda la maggior parte degli organismi presenti sulla Terra (di cui conosciamo solo una piccola parte), ma non è considerata né una legge biologica, né una legge fisica, in biologia e fisica.
+E naturalmente da una descrizione non si può derivare una prescrizione etica (legge di Hume).
 
-Ad esempio: perché gli esseri viventi nascono? Perché crescono? Perché muoiono? Per magia? Ci sono delle cause, delle variabilità, in questi schemi? Da cosa sono determinati? Gli esseri viventi si riproducono sempre o no? E gli organismi sterili? Sfuggono dallo schema, violano le leggi di natura? E gli organismi che non invecchiano (senescenza trascurabile) o ringiovaniscono (senescenza negativa)? Contro natura anche loro?
+Ad esempio: perché gli esseri viventi nascono? Perché crescono? Perché muoiono? Per magia?
+Ci sono delle cause, delle variabilità, in questi schemi? Da cosa sono determinati?
+Tutti gli esseri viventi si possono riprodurre? E gli organismi sterili? Sfuggono dallo schema, violano le leggi di natura?
+E gli organismi che non invecchiano (senescenza trascurabile) o ringiovaniscono (senescenza negativa)? Contro natura anche loro?
 
-Probabilmente molte persone vedono questi fenomeni come eventi elementari o regolati da una mente superiore, non saprei, invece che essere fenomeni complessissimi emergenti dall'interazione di molti fenomeni più piccoli a livello molecolare, tutti soggetti ad evoluzione.
+Probabilmente molte persone vedono questi fenomeni come eventi elementari o regolati da una mente superiore, non saprei,
+invece che essere fenomeni complessissimi emergenti dall'interazione di molti fenomeni più piccoli a livello molecolare, tutti soggetti ad evoluzione.
 
 Quindi:
+
 1. L'invecchiamento non è una legge di natura perché è un fenomeno complesso soggetto ad evoluzione, sia biologica che tecnologica, e in natura (intesa in questo caso come l'insieme degli organismi viventi) si mostra già estremamente variabile. Inoltre le evidenze mostrano che è modificabile in mille modi.
 1. Il secondo principio della termodinamica (quella che dice che l'entropia di un sistema isolato non può diminuire) vale nei sistemi isolati, quindi non vale nei sistemi biologici, dato che *non* sono assolutamente sistemi isolati. (1)
 1. Anche se per assurdo l'invecchiamento fosse una legge di natura ciò non implicherebbe che non possa essere contrastato, infatti gli uccelli e gli aerei contrastano la legge di gravità con successo.
@@ -108,6 +133,7 @@ Quindi:
 ## È nella natura dell'uomo invecchiare
 
 Questa affermazione presuppone tipicamente due assunzioni:
+
 1 - che esista un'unica natura uguale per tutti gli uomini
 2 - che la natura umana sia costante nel tempo
 
@@ -124,7 +150,9 @@ Un paio di video che parlano di questo da parte di esperti di biologia e natura:
 * [Ma noi siamo "..........." per natura? | Entropy for Life](https://youtu.be/6BZTqq_XuzE)
 * (video) [La natura è perfetta? Telmo Pievani, filosofo ed evoluzionista // L'ideatorio USI](https://youtu.be/kDiNBePGow4)
 
-A questo proposito, si può dire che l'intelligenza sia un'invenzione dell'evoluzione, non certo la morte. La morte è il disordine che esiste quando non c'è vita, non c'è bisogno di inventare niente, dato che il disordine è la condizione di partenza pre-evolutiva, pre-biotica. È molto più facile essere disordinati che ordinati, è molto più facile distruggere che costruire, morire rispetto a vivere.
+A questo proposito, si può dire che l'intelligenza sia un'invenzione dell'evoluzione, non certo la morte.
+La morte è il disordine che esiste quando non c'è vita, non c'è bisogno di inventare niente, dato che il disordine è la condizione di partenza pre-evolutiva, pre-biotica.
+È molto più facile essere disordinati che ordinati, è molto più facile distruggere che costruire, morire rispetto a vivere.
 
 Cronologicamente, dal punto di vista evolutivo:
 
