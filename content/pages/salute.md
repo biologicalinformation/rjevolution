@@ -10,6 +10,10 @@ Perché si dice che la salute è la cosa più importante? (ormai anche un algori
 
 > Si dice che la salute sia la cosa più importante perché è il fattore più importante nel determinare la qualità della vita di una persona.
 
+"Un bambino gentile è un bambino sano"
+
+In tutte le frasi come queste è implicito il concetto che la salute è ciò che si vuole.
+
 Un grosso studio pubblicato su The Lancet [[1](#fonti)] mette in chiaro la relazione gerarchica tra salute e felicità:
 
     Mancanza di salute --> infelicità.
@@ -22,6 +26,8 @@ Un grosso studio pubblicato su The Lancet [[1](#fonti)] mette in chiaro la relaz
 Questo spiega moltissime cose. Ad esempio che in generale non ha senso agire direttamente sulla percezione della felicità (non essendo peraltro in grado di farlo bene) se ci interessa la salute, mentre invece ha senso agire proteggendo al massimo la salute se ci interessa mantenere la possibilità di essere felici.
 
 Dato che lo scopo è essere felici, risolvere la salute è la priorità. La salute sblocca la possibilità di essere felici. La massima felicità tipicamente è nella giovinezza soprattutto per questo motivo, perché una struttura biologica integra permette il massimo livello di salute e potenzialità.
+
+Nessuno ha lo scopo di essere malato, invece tutti hanno lo scopo di essere come minimo sani. Scopo è sinonimo di desiderio (altrimenti vuol dire che sei constretto a raggiungere un determinato scopo, in definitiva lo scopo di qualcun altro), e la felicità è sinonimo di ciò che è "desiderato".
 
 ## Salute vs invecchiamento
 
@@ -45,13 +51,17 @@ La freccia `-->` indica l'accumulo dei danni, non il passare del tempo. Quindi l
 
 ## Salute mentale
 
-L'ambito della salute mentale è molto controverso:
+L'ambito della salute mentale è molto controverso, e spesso si confonde la causa con l'effetto:
 
-- manca una definizione di salute, figuriamoci di salute mentale (considerando che le neuroscienze sono il campo più complesso)
-- le scienze psicologiche e psichiatriche non hanno solidi fondamenti, si basano su scuole di pensiero, e non hanno una tradizione di rigore logico
-- la psichiatria è associata a violazione di diritti umani al punto che l'OMS richiede un radicale cambio di paradigma [3]
+- [manca una definizione di salute in generale](/rjevolution/papers/the-sciences-of-healthy-aging-await-a-theory-of-health.md), figuriamoci di salute mentale (considerando che le neuroscienze sono il campo più complesso)
+- le scienze psicologiche e psichiatriche purtroppo non hanno solidi fondamenti, si basano su scuole di pensiero, e non hanno una tradizione di rigore logico (questo vale un po' anche per la medicina e le scienze della vita)
+- gli attuali approcci alla salute mentale sono caratterizzati da mancanza di ricerca e dominati dalla psichiatria che è associata a violazione di diritti umani al punto che l'OMS ha scritto un documento per sollecitare e guidare un radicale cambio di paradigma [[3](#fonti)]
 
-Questo porta ad agire al livello sbagliato -- sul cervello (non sapendolo nemmeno fare, posto che abbia senso) invece che sulle determinanti della salute psicologica --, causando più danni che benefici, non risolvendo il problema, e peggiorando la salute (riducendo l'integrità fisiologica), che è il principale determinante della felicità.
+Questo porta spesso ad agire al livello sbagliato -- sul cervello (non sapendolo nemmeno fare, posto che abbia senso in molti casi) invece che sulle determinanti della salute psicologica --, causando più danni che benefici, non risolvendo il problema, e peggiorando la salute (riducendo l'integrità fisiologica), che è il principale determinante della felicità e del benessere, insieme ad un ambiente appropriato.
+
+Porre tutto in termini di percezione soggettiva, come se il problema (e non il sintomo del problema) fosse l'ansia o la sofferenza psicologica e non ciò che la causa, ritarda anche la risoluzione dei problemi oggettivi ambientali e di salute. Tanto per fare un esempio tra tanti, se si classifica la paura della morte e dell'invecchiamento come fobia, si sta spontando il problema dalla realtà all'individuo che ha l'unica colpa di essere sensibile a un problema, e tra l'altro in qualche modo etichettandolo come malato, come se fosse lui a essere sbagliato.
+La fobia dell'invecchiamento non è un problema della mente dell'individuo, ma è il sintomo di un problema oggettivo per la salute, che è ancora presente nella storia evolutiva dell'uomo. La fobia riguarda paure irrazionali per cose innocue, mentre l'invecchiamento biologico è molto reale e compromette il benessere e la salute.
+Il fatto che non tutti hanno (o avrebbero) tale paura è del tutto irrilevante.
 
 ## Fonti
 
