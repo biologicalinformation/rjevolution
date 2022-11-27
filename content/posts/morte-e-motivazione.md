@@ -195,9 +195,13 @@ Avere ancora tempo per realizzare e/o continuare a vivere i propri sogni e ampli
 
 Lascia sconcertati che alcuni non si rendano conto di questo.
 
-L'altra cosa incredibile è che venga ignorato completamente il fatto che, nel presente, ognuno voglia innanzitutto stare bene, essere in salute, e quindi dalla parte opposta della morte e di ciò che la causa (danno biologico, quindi sofferenza). Evidentemente Tyson, e chi per lui, questa cosa la dà per scontata e non sa che l'invecchiamento, ciò che causa la brevità della vita, toglie salute e qualità di vita.
+!["Quando sei giovane ti sembra che ogni cosa sia la fine del mondo" (dal film 17 again)](/rjevolution/images/17again.jpg)
 
-Ricordo bene una persona, di circa 60 anni, che disse che non aveva mai sentito parlare di ricerca sul ringiovanimento ed estensione della vita (anche se lui usò il termine improprio di immortalità), e che questa rinnovata speranza di futuro in buona salute giovanile gli aveva ridato la motivazione a prendersi cura di sé, in attesa di questi sviluppi per ritornare poi pienamente sé stesso. Questo è proprio un esempio del fatto che si può perdere la motivazione se si sa che tutto va comunque allo sfascio a prescindere.
+Come si vede in questa scena di un film, la percezione della fine è ciò che fa stare male. Infatti la consolazione universale che si cerca sempre di proporre è che non tutto è perduto, non è la fine, e ci sarà ancora tempo per tornare a stare bene. Non è che si dice: "Tranquillo, tanto sei condannato a morte", oppure "Non preoccuparti, il tempo stringe, non hai tempo". Anzi spesso si dice di prendersi del tempo, che il tempo cura le ferite (ignorando però che l'invecchiamento fa danno e porta alla fine di questo tempo che si vorrebbe guaritore, e lo è in ambiti psicologici). Quindi si vuole che il tempo ci sia, e si vuole tornare a stare bene.
+
+L'altra cosa incredibile è appunto che venga ignorato completamente il fatto che, nel presente, ognuno voglia innanzitutto stare bene, essere in salute, e quindi dalla parte opposta della morte e di ciò che la causa (danno biologico, e quindi relativa sofferenza). Evidentemente Tyson, e chi per lui, questa cosa la dà per scontata e non sa che l'invecchiamento, ciò che causa la brevità della vita, toglie salute e qualità di vita.
+
+Ricordo bene una persona, di circa 60 anni, che in un commento scrisse che non aveva mai sentito parlare di ricerca sul ringiovanimento ed estensione della vita (anche se lui usò il termine improprio di immortalità), e che questa rinnovata speranza di futuro in buona salute giovanile gli aveva ridato la motivazione a prendersi cura di sé, in attesa di questi sviluppi per ritornare poi pienamente sé stesso. Questo è proprio un esempio del fatto che si può perdere la motivazione se si sa che tutto va comunque allo sfascio a prescindere.
 
 Inoltre, nel presente e nel futuro, oltre alla buona salute, ognuno vuole fare ciò che lo fa stare bene e lo appassiona.
 Non è questione di realizzare traguardi e mettere bandierine, ma si tratta del desiderio di vivere relazioni piacevoli, esperienze appaganti, divertenti, piacevoli, godersi la vita, conoscere persone, imparare cose nuove, scoprire il futuro. Non si tratta di una lista della spesa che si esaurisce, o fare il record di successi da esibire. Questa è una distorsione della società derivante da inconsapevolezza, giudizio, concetto di colpa e prestazionalismo, e, temo, anche il tabù del piacere. È anche normale che si parta dall'inconsapevolezza, perché comprendere molte cose in modo coerente richiede molto tempo.
@@ -220,12 +224,10 @@ NB: Questo articolo si basa su un breve pezzo di intervista video e delle frasi 
 ## Link esterni
 
 * (YouTube) [Death, life, and meaning walk into a bar... | LifeXtenShow](https://youtu.be/IJHkCzMok1o) (La morte dà significato alla vita?)
+* https://medium.com/lifespan-io/the-misconception-of-the-two-deaths-353c8bb377f7
 
 ## Bibliografia
 
 * Liu, Bette, Sarah Floud, Kirstin Pirie, Jane Green, Richard Peto, and Valerie Beral. 2016. Does Happiness Itself Directly Affect Mortality? The Prospective UK Million Women Study. The Lancet 387 (10021): 874–81. https://doi.org/10.1016/s0140-6736(15)01087-9.
 * Kandel, Eric R., James H. Schwartz, Thomas M. Jessell, Stevan A. Siegelbaum, A. J. Hudspeth, Virgilio Perri, and Giuseppe Spidalieri. 2015. Principi Di Neuroscienze. Casa Editrice Ambrosiana.
 * Damasio, Antonio R. Alla ricerca di Spinoza: emozioni, sentimenti e cervello. Adelphi, 2007.
-
-
-
