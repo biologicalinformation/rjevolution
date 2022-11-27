@@ -9,7 +9,7 @@ La fallacia della _falsa sufficienza_ è credere che, dato che le cose sono (mol
 
 Premessa:
 
-	Oggi si sta molto meglio di prima. I nostri nonni lavoravano nei campi e hanno fatto la guerra!
+    Oggi si sta molto meglio di prima. I nostri nonni lavoravano nei campi e hanno fatto la guerra!
 
 Conclusioni (fallaci):
 
