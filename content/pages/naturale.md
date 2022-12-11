@@ -40,7 +40,7 @@ Approfondiamo.
 
 ## Appello alla natura
 
-{{< figure alt="DOC di Ritorno al Futuro che alla lavagna spiega la fallacia dell'appello alla natura" src="https://scontent.fflr2-1.fna.fbcdn.net/v/t1.6435-9/94380106_715658345925577_8145967237111480320_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=53hIiOi9jDgAX8CZVPO&_nc_ht=scontent.fflr2-1.fna&oh=00_AT95duyf0kgbo4N4-TfphzE6j2-XP-rbCBtElKt5niANlw&oe=6337EFBC" >}}
+{{< figure alt="DOC di Ritorno al Futuro che alla lavagna spiega la fallacia dell'appello alla natura" src="/rjevolution/images/appeal-to-nature-doc.jpeg" >}}
 
 Fonte immagine: https://www.facebook.com/foodsciencebabe/posts/pfbid02gL9vZd95wpcRgoj6jZjCi4Mv9syXj7Mmvi8TmnM4Jupea7RehTkaq17hbC9MEGX8l
 
