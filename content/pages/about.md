@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-06-28T09:08:18+02:00
-draft: false
+draft: true
 categories: ["pagine"]
 ---
 
@@ -13,28 +13,42 @@ Il punto centrale di tutto è la *qualità della vita*, lo stare bene, che fonda
 
 Ho vissuto più di tre decenni serenamente e attivamente, in modo spensierato, non capendo come fosse possibile che molta gente fosse disperata o depressa, date le infinite cose da fare, possibilità e prospettive.
 
-Poi, improvvisamente, da alcuni segnali che prima non si erano mai presentati e/o non avevo mai colto, mi sono reso conto che iniziavo a perdere ciò che era sempre stata la base della mia gioia di vivere, ovvero la *giovinezza*. Il mio presente non si rigenerava più completamente, come era successo per ben tre decenni e oltre, ma si iniziava a diventare meno sani, meno interessanti, e ad essere spinti fuori dal sistema, da vari punti di vista, sentimentale, lavorativo, ecc. Le occasioni iniziavano a ridursi, e a non tornare. C'era sempre meno tempo e sempre meno di qualità, e questo era destinato a peggiorare, fino alla morte. Mentre io desideravo vivere e stare bene. Esattamente l'opposto.
+Poi, improvvisamente, da alcuni segnali che prima non si erano mai presentati e/o non avevo mai colto, mi sono reso conto che tra poco avrei perso ciò che era sempre stata la base della mia gioia di vivere, ovvero la *giovinezza*. Il mio presente non si sarebbe rigenerato più completamente, come era successo per ben tre decenni e oltre, ma si iniziava a diventare meno sani, meno attraenti, e ad essere spinti fuori dal sistema, da vari punti di vista, sentimentale, lavorativo, ecc.
+Le occasioni avrebbero iniziato a ridursi, e a non tornare. Ci sarebbe stato sempre meno tempo e sempre meno di qualità, e questo era destinato a peggiorare, fino alla morte.
+Mentre io desideravo vivere e stare bene. Esattamente l'opposto di quello che si sarebbe prospettato.
 
-Iniziavo a vedere il deterioramento nei miei genitori. Non si andava verso il miglioramento o il mantenimento, come finora era avvenuto, eventualmente tra alti e bassi, ma verso il peggioramento fisico, quindi anche di salute... che però è la cosa più importante!
-Sia la giovinezza e la salute erano la base inconscia su cui tutta la mia vita si stava muovendo, permettendo felicità, serenità, sogni, ed entusiasmo per il futuro.
+Iniziavo a vedere il deterioramento nei miei genitori. Non si andava verso il miglioramento o il mantenimento, come finora era avvenuto, eventualmente tra alti e bassi, ma verso il peggioramento fisico, quindi anche di salute... Problema grosso, dato che la salute è la base per tutto il resto.
+Giovinezza e salute erano la base inconscia su cui tutta la mia vita si stava muovendo, permettendo felicità, serenità, sogni, ed entusiasmo per il futuro.
 
 È stato uno shock indescrivibile, sono crollati tutti i miei sogni e le prospettive di felicità in un istante. C'era un prima e c'era un dopo, abissalmente diversi.
-Perché per più di tre decenni sono stato sereno, e improvvisamente il contesto "normale" mi portava improvvisamente a soffrire, nonostante ciò che mi definiva, come idee e interessi non fosse cambiato?
+Perché per più di tre decenni sono stato bene, sereno, e improvvisamente il contesto "normale" mi portava improvvisamente a soffrire, nonostante ciò che mi definiva, come idee e interessi, non fosse cambiato?
 
-Da quel momento è iniziata una riflessione sistemica profonda sul concetto di felicità, sofferenza e problema, aiutata dal fatto che avevo alle spalle una laurea magistrale in biologia molecolare, un po' più rigorosa della media per via del percorso interdisciplinare supportato da basi di matematica, intelligenza artificiale e informatica. Oltre a questo, nel mio percorso c'era una discreta quota di neuroscienze e biologia del comportamento, quindi ero facilitato nel comprendere il comportamento animale e umano nella sua diversità.
+Da quel momento è iniziata una riflessione sistemica profonda sul concetto di felicità, sofferenza e problema, aiutata dal fatto che avevo alle spalle una laurea magistrale in biologia molecolare, ma con una formazione più rigorosa della media per via del fatto che ho iniziato ad ingegneria.
+Oltre a questo, nel mio percorso c'era una discreta quota di neuroscienze e biologia del comportamento, quindi ero facilitato nel comprendere il comportamento animale e umano nella sua diversità.
 
-Il pensiero di default (per via dei vari bias di normalità) è stato quello di pensare di essere io quello sbagliato. Ma, oltre che a parlare con psicologi e guardare la definizione di gerascofobia, sono andato a informarmi sull'invecchiamento biologico. Per esempio, è davvero inevitabile? Cosa si sa? Per fortuna ho trovato un sito in italiano fatto molto bene che si chiama [Rejuvenaction](https://rejuvenactionitalia.wordpress.com/), che mi ha aggiornato immediatamente sul problema e dato speranze. Adesso c'è la versione sintetizzata in inglese [qui](https://tmnthngs.wordpress.com/2020/06/13/the-rj-files/) (il mio sito nasce anche per questo motivo).
+Il pensiero di default, per via dei vari bias di normalità assorbiti dal contesto sociale, è stato comunque quello di essere io quello sbagliato.
+È un po' quello a cui ti spinge la società che capisce ben poco di diversità.
+Ma, oltre che a parlare con psicologi e guardare la definizione di gerascofobia, sono andato a informarmi sull'invecchiamento biologico.
+Per esempio, è davvero inevitabile? Cosa si sa? Per fortuna ho trovato un sito in italiano fatto molto bene che si chiama [Rejuvenaction](https://rejuvenactionitalia.wordpress.com/), che mi ha aggiornato immediatamente sul problema e dato speranze. Adesso c'è solo la versione sintetizzata in inglese [qui](https://tmnthngs.wordpress.com/2020/06/13/the-rj-files/) (il mio sito nasce anche per questo motivo).
 
-Il passo successivo è stato andato approfondire i fondamenti biologici ed evoluzionistici dell'invecchiamento. Poi quelli etici. E lì le più grandi sorprese, devo ammettere, perché purtroppo è un tema molto trascurato.
+Il passo successivo è stato andato approfondire i fondamenti biologici ed evoluzionistici dell'invecchiamento.
+Poi quelli etici. E lì le più grandi sorprese, devo ammettere, perché purtroppo è un tema molto trascurato.
 
 Lo shock ulteriore è stato osservare la relativa indifferenza di molte persone nei confronti dell'invecchiamento, come se non fosse un problema così rilevante, come se la propria salute fosse un optional. "La morte dà senso alla vita". Eh? Semmai il benessere e la felicità lo danno, non certo ciò che li disintegra. E ho scoperto quella che viene chiamata [trance pro-invecchiamento](/rjevolution/pages/pro-aging-trance), con tutte le sue fallacie logiche e autocontraddizioni.
 
-Infine, l'ulteriore amarezza è stata rendersi conto che le persone, mediamente, non sono in grado di ragionare considerando più concetti e variabili contemporaneamente, ma si basano tendenzialmente su frasi fatte e retorica, e si contraddicono, non spingendo a fondo i ragionamenti. Si rimane molto in superficie, senza sviluppare le implicazioni. Si ragiona in modo parziale e non sul lungo termine, ma su prospettive effimere. Si confonde ciò che è con ciò che dovrebbe essere, ciò che è normale con ciò che è giusto, sano, buono.
+Infine, l'ulteriore amarezza è stata rendersi conto che le persone, mediamente, non sono in grado di ragionare considerando più concetti e variabili contemporaneamente, ma si basano tendenzialmente su frasi fatte e retorica, e si contraddicono, non spingendo a fondo i ragionamenti.
+Si rimane molto in superficie, senza sviluppare le implicazioni. Si ragiona in modo parziale e non sul lungo termine, ma su prospettive effimere. Si confonde ciò che è con ciò che dovrebbe essere, ciò che è normale con ciò che è giusto, sano, buono (fallacia naturalistica).
 Inoltre, mediamente, la biologia, l'evoluzione e le emozioni sono oggetti sconosciuti, tipo UFO. Non ci si ascolta nemmeno, non si capisce cosa ci fa stare bene o cosa ci fa stare male, alcuni non distinguono il piacere dal dovere, inquinati dal giudizio e da tante altre cose.
 
-Facendo un'analisi epurata dalla retorica, si arriva piuttosto presto a concludere che tutto ciò che distrugge la salute in modo irrimediabile (noi e/o persone a noi care) causa sofferenza e infelicità, e dunque impedisce la felicità. In letteratura è pieno di studi che mostrano come malattie e morte siano associati a traumi e infelicità. Come se ci fosse bisogno degli studi, peraltro. Ma anche tutto ciò che causa perdita di capacità di provare piacere. Quindi salute e piacere sono alla base del benessere.
+Purtroppo anche molte definizioni di fobia e malattia sono inquinate da questo tipo di errori, quindi il fatto che esista una definizione tassonomica come la "gerascofobia" (fobia dell'invecchiamento), definita tale solo perché sembra che normalmente non si presenti, cade nella fallacia naturalistica.
+Del resto le fobie sono tali se si riferiscono a cose non pericolose, ma l'invecchiamento è pericoloso per un'infinita serie di motivi: invecchiare aumenta il rischio di cancro, Alzheimer, Parkinson, infarto, morte, ecc. e poi uccide...quindi è piuttosto pericolosetto.
+Se uno non deve avere paura di malattie e morte, di cosa dovrebbe avere paura?
 
-E pertanto tutto ciò che distrugge salute, vita e piacere è un problema. La felicità è definita come ciò che è desiderato, pertanto non possono esistere scopi diversi da essa che non siano auto-contraddittori, cioè privi di senso. Uno dei problemi è che si fa confusione con i significati delle parole.
+Facendo un'analisi epurata dalla retorica, si arriva piuttosto presto a concludere che tutto ciò che distrugge la salute in modo irrimediabile (noi e/o persone a noi care) causa sofferenza e infelicità, e dunque impedisce la felicità. In letteratura è pieno di studi che mostrano come malattie e morte siano associati a traumi e infelicità. Come se ci fosse bisogno degli studi, peraltro. Ma anche tutto ciò che causa perdita di capacità di provare piacere è un problema intrinseco, nonché capace di generare traumi.
+Quindi salute e piacere sono alla base del benessere.
+
+E pertanto tutto ciò che distrugge salute, vita e piacere è un problema.
+La felicità è definita in relazione al desiderio, pertanto non possono esistere scopi diversi da essa che non siano auto-contraddittori, cioè privi di senso. Uno dei problemi è che si fa confusione con i significati delle parole.
 
 Tendenzialmente si sa (per fortuna) che la salute è la cosa più importante, insieme alla libertà, ma quello che manca, diciamo nel "mainstream", è la comprensione della relazione (inversa) tra invecchiamento e salute.
 
@@ -51,11 +65,13 @@ Comunque, molto spesso, l'invecchiamento tende ad essere visto solo come una per
 
 Se si vede una novantenne (cosa super-eccezionale) che in qualche modo riesce a correre (o fare qualche altra cosa eccezionale per l'età) se ne conclude: "Vedete? L'età è solo un numero". Come se il suo correre fosse indistinguibile dal correre di un ventenne, e dimenticando completamente l'eccezionalità della cosa (elevare l'eccezione a regola, bias di selezione).
 
-Questa cosa naturalmente è completamente errata, come mostrato chiaramente dalla biogerontologia o geroscienza. Al punto che alcuni studi definiscono l'invecchiamento come tutto ciò che causa perdita di benessere, cioè salute e/o sopravvivenza, o addirittura come malattia.[1,2]
+Questa cosa è completamente errata, come mostrato chiaramente dalla biogerontologia o geroscienza. Al punto che alcuni studi definiscono l'**invecchiamento come tutto ciò che causa perdita di benessere**, cioè salute e/o sopravvivenza, o addirittura come malattia.[1,2]
 Ma anche se fosse solo una perdita di bellezza, la prima cosa da investigare e capire, bene, sarebbe il *perché* c'è un peggioramento invece che un miglioramento o un mantenimento, e se può essere evitato.
-E invece si assiste a tutta la retorica del tipo "ci ho messo tanto a farmi venire le rughe, non toglietemele". Frase celebratissima, che è davvero nella top ten della retorica autoconsolatoria, ma a cui non crede nessuno, e che scommetto nessuno si sognerebbe di applicare alle "rughe" del DNA (danni epigenetici) o all'indurimento delle arterie, vero? Eppure anche per far venire quelle ci sono voluti anni... "quindi ottima ragione" per non toglierleh!
+E invece si assiste a tutta la retorica del tipo "ci ho messo tanto a farmi venire le rughe, non toglietemele". Frase celebratissima, che è davvero nella top ten della retorica autoconsolatoria, ma a cui non crede nessuno, e che scommetto nessuno si sognerebbe di applicare alle "rughe" del DNA (danni epigenetici) o all'indurimento delle arterie, vero? Eppure anche per far venire quelle ci sono voluti anni... "quindi ottima ragione per non toglierleh"!
+Ma voi avete mai visto qualcuno che va dall'estetista a farsi fare le rughe?
 
-Poi c'è una totale ipocrisia per quanto riguarda l'estetica, come se non fosse importante per l'autostima, per l'umore, per le relazioni sentimentali, e quindi per il benessere psicologico. Chiarissimo come il sole che l'estetica non sia tutto, ma dire che non sia assolutamente importante è ridicolo. Ovviamente tutto il mondo dimostra di agire nel modo opposto, ma siamo immersi in una sorta di stucchevole moralismo basato sul giudizio, che è tutto tramite profondità e comprensione, innanzitutto di sé stessi oltre che dell'altro. La cosa più comica della storia è vedere i commenti nei confronti delle coppie con grandi differenze di età. Ovviamente tuti subito a sostenere che il più giovane ci sta solo per i soldi, non certo per amore. Un momento però.... su quali basi si afferma ciò? Non dovrebbe stupire che una persona anche molto più grande possa far innamorare, al di là dei soldi. Perché si dà così tanta importanza all'estetica?
+Poi c'è una totale ipocrisia per quanto riguarda l'estetica, come se non fosse importante per l'autostima, per l'umore, per le relazioni sentimentali, e quindi per il benessere psicologico. Chiarissimo come il sole che l'estetica non sia tutto, ma dire che non sia assolutamente importante è ridicolo. Ovviamente tutto il mondo dimostra di agire nel modo opposto, ma siamo immersi in una sorta di stucchevole moralismo basato sul giudizio, che è tutto tramite profondità e comprensione, innanzitutto di sé stessi oltre che dell'altro.
+La cosa più comica della storia è vedere i commenti nei confronti delle coppie con grandi differenze di età. Ovviamente tuti subito a sostenere che il più giovane ci sta solo per i soldi, non certo per amore. Un momento però.... su quali basi si afferma ciò? Non dovrebbe stupire che una persona anche molto più grande possa far innamorare, al di là dei soldi. Perché si dà così tanta importanza all'estetica?
 Spiegare perché, se si dice che l'età è solo un numero, l'estetica non conta nulla, ma conta solo la parte interiore, dovrebbe essere squallido che due persone con data di nascita diversa di decenni stiano insieme. Motivi? Mmm... o forse, invece, un certo livello di estetica è talmente importante a un livello così base che neanche ce ne rendiamo conto?
 
 Ma siamo sicuri poi che l'estetica sia completamente scollegata dalle cose ritenute più importanti, tipo la salute? Sorpresa sorpresa...
