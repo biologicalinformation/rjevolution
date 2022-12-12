@@ -15,14 +15,6 @@ googleAnalytics = "G-H41E1B9G7L"
   background_color_class = "bg-blue"
   recent_posts_number = 3
 
-
-[[menu.main]]
-name = "About"
-weight = 0
-identifier = "about" # this button will refer to a markdown file named "about" in the content folder
-pre = "<br />"
-url = "/pages/about"
-
 [[menu.main]]
 name = "Posts"
 weight = 0
